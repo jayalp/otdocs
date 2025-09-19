@@ -11,12 +11,12 @@
     - [Trademarks TODO](./doc/project_governance/trademark.md)
     - [Communication Policy REVIEW](./doc/project_governance/communications.md)
   - [Governance REVIEW](./doc/project_governance/README.md)
-    - [Governing Board REVIEW](./doc/project_governance/governing_board.md)
-    - [Technical Committee REVIEW](./doc/project_governance/technical_committee.md)
-    - [Working Groups REVIEW](./doc/project_governance/working_group.md)
+    - [Governing Board](./doc/project_governance/governing_board.md)
+    - [Technical Committee](./doc/project_governance/technical_committee.md)
+    - [Working Groups](./doc/project_governance/working_group.md)
 	- [User accounts TODO](./doc/project_governance/useraccounts.md)
 	- [lowRISC CIC REVIEW](./doc/project_governance/lowRISC.md)
-    
+
 - [Use Cases](./doc/use_cases/README.md)
 
   - [Platform Integrity Module](./doc/use_cases/platform_integrity_module/README.md)
@@ -232,7 +232,7 @@
     - [Registers](./hw/top_darjeeling/ip_autogen/rstmgr/doc/registers.md)
     - [Device Interface Functions](./sw/device/lib/dif/dif_rstmgr.h)
     - [Checklist](./hw/top_darjeeling/ip_autogen/rstmgr/doc/checklist.md)
-    
+
   - [IP Blocks](./hw/ip/README.md)
     - [Cores](./hw/doc/cores.md)
     - [Ibex RISC-V Core Wrapper](./hw/top_earlgrey/ip_autogen/rv_core_ibex/README.md)
@@ -546,7 +546,7 @@
     - [Tile Link Agent](./hw/dv/sv/tl_agent/README.md)
     - [UART Agent](./hw/dv/sv/uart_agent/README.md)
     - [USB20 Agent](./hw/dv/sv/usb20_agent/README.md)
-    
+
 - [Security](./doc/security/README.md)
 
   - [Cryptography Library](./doc/security/cryptolib/README.md)

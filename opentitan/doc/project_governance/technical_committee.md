@@ -82,7 +82,7 @@ Where OTTC decisions affect the broader OpenTitan community, the Chair should en
 Committers are individuals with repository write access.
 While everyone can and is encouraged to contribute by reviewing code, committers are responsible for final approval and merge.
 New committers are appointed by OTTC vote.
-The OTTC removes committers who no longer meet the OTTC’s criteria.
+The OTTC removes committers who no longer meet the OTTC’s criteria as described in [Committers](./doc/project_governance/committers.html).
 
 ### Oversight of the RFC process {#oversight-of-the-rfc-process}
 

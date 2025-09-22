@@ -5,7 +5,7 @@ This area gives some more information about how the project is organized.
 
 ## Governance
 
-OpenTitan is stewarded by [lowRISC CIC](./lowRISC.md), a not-for-profit company that uses collaborative engineering to develop and maintain open source silicon designs and tools for the long term. 
+OpenTitan is stewarded by [lowRISC CIC](./lowRISC.md), a not-for-profit company that uses collaborative engineering to develop and maintain open source silicon designs and tools for the long term.
 As a lowRISC CIC Chartered Project, OpenTitan governance is handled via the [OpenTitan Charter](https://static.opentitan.org/technical-charter.pdf).
 
 As described in full detail in the [OpenTitan Charter](https://static.opentitan.org/technical-charter.pdf), the governance structure consists of:

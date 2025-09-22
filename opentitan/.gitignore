@@ -1,8 +1,8 @@
 .bin/
 /*
 /*/
-!/doc/
-!/doc/images/
+!doc/
+!doc/images/
 !SUMMARY.md
 !.gitignore
 *.tpl

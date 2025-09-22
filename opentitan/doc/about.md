@@ -1,5 +1,5 @@
 
-| ![OpenTitan logo](./images/header_ot.png) | About | Governance | Use Cases | Specification | Security | Software |
+![OpenTitan logo](./images/title_ot.png)
 
 ![OpenTitan header](./images/header_top.png)
 

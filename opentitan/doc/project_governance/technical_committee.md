@@ -64,7 +64,7 @@ Voting uses the following rules unless otherwise specified.
 * If a TC member cannot attend a meeting to vote, they may instead vote by email to the TC mailing list before the respective TC meeting.
 * For a vote to be quorate, it requires:
   * At least 60% of OTTC members to respond “Yes” or “No”
-* For a vote to pass, it requires
+* For a vote to pass, it requires:
   * At least 75% of those OTTC members who vote “Yes” or “No” to be in favour
 
 The chair has no enhanced voting rights as a result of their position.
@@ -95,7 +95,7 @@ In particular this includes:
 
 ### Creating and managing Commit Escalation Guidelines
 
-These set out the guidance for when Committers should escalate a particular Commit to the OTTC ( e.g. , cross-cutting changes), and when Committers should recommend a design rationale write-up or RFC for wider feedback from the OTTC
+These set out the guidance for when Committers should escalate a particular Commit to the OTTC (e.g. cross-cutting changes), and when Committers should recommend a design rationale write-up or RFC for wider feedback from the OTTC.
 
 ### Proposing changes and/or additions to the Project’s technical roadmap
 
@@ -107,7 +107,7 @@ Proposals can be made by OTTC vote and are referred to the OTGB for consideratio
 Proposing the technical framework for compliance & certification under the Project’s trademarks.
 This defines what meets the standards of OpenTitan certification.
 The OTTC may propose changes to the technical framework by OTTC vote.
-The OTGB votes to approve or reject the proposed changes
+The OTGB votes to approve or reject the proposed changes.
 In the absence of a vote, changes proposed by the OTTC are approved one month after notification to the OTGB.
 
 ## Modifying the terms of reference

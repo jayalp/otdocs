@@ -1,6 +1,6 @@
-- [About OpenTitan REVIEW](./README.md)
+- [About OpenTitan REVIEW](./doc/sections/opentitan.md)
 
-  - [Test Page](./doc/about.md)
+  - [Introduction](./README.md)
   - [OpenTitan News TODO](./doc/blankpage.md)
   - [Product Architecture REVIEW](./doc/project_governance/productarchitecture.md)
   - [Partnership TODO](./doc/project_governance/partnership.md)
@@ -8,8 +8,9 @@
   - [Roadmap TODO](./doc/project_governance/roadmap.md)
   - [lowRISC CIC REVIEW](./doc/project_governance/lowRISC.md)
  
-- [Governance and Policies REVIEW](./doc/project_governance/README.md)
- 
+- [Governance and Policies REVIEW](./doc/sections/governance.md)
+
+  - [Introduction](./doc/project_governance/README.md)
   - [Governing Board](./doc/project_governance/governing_board.md)
   - [Technical Committee](./doc/project_governance/technical_committee.md)
   - [Working Groups](./doc/project_governance/working_group.md)
@@ -20,14 +21,16 @@
   - [Communication Policy REVIEW](./doc/project_governance/communications.md)
   - [User accounts TODO](./doc/project_governance/useraccounts.md)
 
-- [Use Cases](./doc/use_cases/README.md)
+- [Use Cases](./doc/sections/usecases.md)
 
+  - [Introduction](./doc/use_cases/README.md)
   - [Platform Integrity Module](./doc/use_cases/platform_integrity_module/README.md)
   - [Trusted Platform Module](./doc/use_cases/tpm/README.md)
   - [Universal 2nd-Factor Security Key](./doc/use_cases/u2f/README.md)
 
-- [Specification](./hw/README.md)
+- [Specification](./doc/sections/specification.md)
 
+  - [Introduction](./hw/README.md)
   - [Top Earlgrey](./hw/top_earlgrey/README.md)
     - [Datasheet](./hw/top_earlgrey/doc/datasheet.md)
     - [Design](./hw/top_earlgrey/doc/design/README.md)
@@ -550,8 +553,9 @@
     - [UART Agent](./hw/dv/sv/uart_agent/README.md)
     - [USB20 Agent](./hw/dv/sv/usb20_agent/README.md)
 
-- [Security](./doc/security/README.md)
+- [Security](./doc/sections/security.md)
 
+  - [Introduction](./doc/security/README.md)
   - [Cryptography Library](./doc/security/cryptolib/README.md)
     - [API Documentation](./doc/security/cryptolib/cryptolib_api.md)
     - [Contributing](./doc/security/cryptolib/contributing.md)
@@ -571,8 +575,9 @@
 
   - [Lightweight Threat Model](./doc/security/threat_model/README.md)
 
-- [Software](./sw/README.md)
+- [Software](./doc/sections/software.md)
 
+  - [Introduction](./sw/README.md)
   - [Build Software](./sw/doc/build_software.md)
     - [External dependencies](./third_party/README.md)
     - [RISC-V toolchain](./toolchain/README.md)
@@ -659,10 +664,9 @@
     - [Signing Guide](./signing/README.md)
     - [TPM2 Test Server](./sw/host/tpm2_test_server/README.md)
 
-- [Working as a contributor](./doc/getting_started/README.md)
+- [Working as a contributor](./doc/sections/contributor.md)
 
   - [Getting Started](./doc/getting_started/README.md)
-
     - [Workflows](./doc/getting_started/workflows.md)
     - [Design Verification](./doc/getting_started/setup_dv.md)
     - [Formal Verification](./doc/getting_started/setup_formal.md)

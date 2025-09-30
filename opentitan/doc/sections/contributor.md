@@ -2,5 +2,6 @@
 ## ![OpenTitan logo](../images/otlogo.png) Contributing to OpenTitan
 
 This section will help you get OpenTitan up and running.
+It will also help you get involved in the OpenTitan project by guiding you through our process of preparing your contribution and getting it integrated.
 
 [![Footer image](../images/interested.png)](mailto:get-involved@opentitan.org)

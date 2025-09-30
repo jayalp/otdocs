@@ -1,4 +1,4 @@
-![Header image](../images/banner.png)
+![Header image](../images/ottop.png)
 ## ![OpenTitan logo](../images/otlogo.png) OpenTitan Use Cases
 
 OpenTitan's mission is to raise the security bar industry-wide by implementing a transparent, logically secure hardware root of trust with wide application.
@@ -6,4 +6,4 @@ OpenTitan's mission is to raise the security bar industry-wide by implementing a
 Use cases for OpenTitan from data center integrations, to embedded security applications such as security keys and smart cards. 
 References to relevant specifications and certification targets are noted where use cases are backed by industry standards.
 
-[![Footer image](../images/interested.png)](mailto:get-involved@opentitan.org)
+![Header image](../images/otbot.png)

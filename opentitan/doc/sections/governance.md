@@ -1,4 +1,4 @@
-![Header image](../images/banner.png)
+![Header image](../images/ottop.png)
 ## ![OpenTitan logo](../images/otlogo.png) OpenTitan Governance and Policies
 
 OpenTitan is stewarded by [lowRISC CIC](./doc/project_governance/lowRISC.md), a not-for-profit company that uses collaborative engineering to develop and maintain open source silicon designs and tools for the long term.
@@ -9,4 +9,4 @@ As described in full detail in the [OpenTitan Charter](https://static.opentitan.
 * The [Technical Committee](./tech_committee.md), responsible for technical decision making required to implement the technical roadmap.
 * [Working Groups](./working_group.md) allow specialists in the relevant area to work together in proposing technical decisions relevant to that workstream and function under the overview of the OpenTitan Technical Committee.
 
-[![Footer image](../images/interested.png)](mailto:get-involved@opentitan.org)
+![Header image](../images/otbot.png)

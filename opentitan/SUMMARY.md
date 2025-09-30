@@ -1,25 +1,18 @@
-- [About OpenTitan REVIEW](./doc/sections/opentitan.md)
+- [About OpenTitan](./doc/sections/opentitan.md)
 
   - [Introduction](./README.md)
-  - [OpenTitan News TODO](./doc/blankpage.md)
-  - [Product Architecture REVIEW](./doc/project_governance/productarchitecture.md)
-  - [Partnership TODO](./doc/project_governance/partnership.md)
-  - [History REVIEW](./doc/project_governance/history.md)
-  - [Roadmap TODO](./doc/project_governance/roadmap.md)
-  - [lowRISC CIC REVIEW](./doc/project_governance/lowRISC.md)
+  - [Product Architecture](./doc/project_governance/productarchitecture.md)
+  - [History](./doc/project_governance/history.md)
+  - [lowRISC CIC](./doc/project_governance/lowRISC.md)
  
-- [Governance and Policies REVIEW](./doc/sections/governance.md)
+- [Governance and Policies](./doc/sections/governance.md)
 
   - [Introduction](./doc/project_governance/README.md)
   - [Governing Board](./doc/project_governance/governing_board.md)
   - [Technical Committee](./doc/project_governance/technical_committee.md)
   - [Working Groups](./doc/project_governance/working_group.md)
-  - [Code of Conduct REVIEW](./doc/project_governance/code_of_conduct.md)
-  - [Open Source and Licensing TODO](./doc/project_governance/licensing.md)
-  - [Quality Framework TODO](./doc/project_governance/qualityframework.md)
-  - [Trademarks TODO](./doc/project_governance/trademark.md)
-  - [Communication Policy REVIEW](./doc/project_governance/communications.md)
-  - [User accounts TODO](./doc/project_governance/useraccounts.md)
+  - [Code of Conduct](./doc/project_governance/code_of_conduct.md)
+  - [Communication Policy](./doc/project_governance/communications.md)
 
 - [Use Cases](./doc/sections/usecases.md)
 
@@ -757,6 +750,6 @@
     - [dtgen: Generate Device Tables](./util/dtgen/README.md)
 
 [Glossary](./doc/glossary.md)
-[Update this documentation TODO](./doc/project_governance/edit.md)
+[Update this documentation](./doc/project_governance/edit.md)
 
   

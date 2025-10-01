@@ -22,4 +22,4 @@ The block diagram is shown above and shows the system configuration, including t
 OpenTitan Darjeeling is a system-on-a-chip Secure Execution Environment, capable of serving as a root of trust (RoT) for measurement and attestation among other applications, for instantiation within a larger system.
 It can serve as the SoC root of trust, a platform root of trust, or even be integrated and leveraged for individual chiplet RoTs.
 
-![Top Level Block Diagram](../hw/top_earlgrey/doc/top_darjeeling_block_diagram.svg)
+![Top Level Block Diagram](../hw/top_darjeeling/doc/top_darjeeling_block_diagram.svg)

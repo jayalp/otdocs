@@ -7,6 +7,6 @@ There are three major parts to the OpenTitan software stack:
 - The OTBN software, which runs on the OTBN cryptographic co-processor within the OpenTitan platform chip.
 - The host software, which is run on a host device and interacts with an OpenTitan device.
 
-Starting points are the [Reference Manual](./util/README.md) and [User Guide](./doc/getting_started/README.md) areas.
+Starting points are the [Reference Manual](../../util/README.md) and [User Guide](../getting_started/README.md) areas.
 
 ![Header image](../images/otbot.png)

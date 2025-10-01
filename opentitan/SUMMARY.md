@@ -751,5 +751,3 @@
 
 [Glossary](./doc/glossary.md)
 [Update this documentation](./doc/project_governance/edit.md)
-
-  

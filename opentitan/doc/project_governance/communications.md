@@ -2,7 +2,7 @@
 
 The following Communications Policy addresses OpenTitan-related communications by the OpenTitan Partners or their employees or affiliates, where those individual employees or affiliates may know, or reasonably have the appearance of knowing, non-public information about the OpenTitan Project.
 It also discusses the responsible use of G Suite accounts by OpenTitan Committers and Authorized Contributors, as well as the heightened responsibilities of OpenTitan Committee Members.
-[Partners](./partners.md) refers to the organizations or corporations that have signed the lowRISC Partner Agreement for the OpenTitan project.
+Partners refers to the organizations or corporations that have signed the lowRISC Partner Agreement for the OpenTitan project.
 The OpenTitan Communications Policy will extend to additional official project partners as they are onboarded and sign the lowRISC Partner Agreement.
 
 ## Open Source Collaboration
@@ -10,7 +10,7 @@ The OpenTitan Communications Policy will extend to additional official project p
 To the extent possible any OpenTitan technical collaborations should be conducted publicly and transparently.
 To that end, OpenTitan’s open source repositories will be public on GitHub.
 The OpenTitan Project will, subject to the discretion of the official Committers (as defined in the OpenTitan Technical Committee Terms of Reference), accept pull requests from members of the public.
-All discussions in the OpenTitan GitHub repositories are subject to the OpenTitan [code of conduct](./doc/project_governance/code-of-conduct.md).
+All discussions in the OpenTitan GitHub repositories are subject to the OpenTitan [code of conduct](./code_of_conduct.md).
 
 ## Committers, Authorized Contributors, and Semi-Open Collaboration
 
@@ -22,7 +22,7 @@ While everyone can and is encouraged to contribute by reviewing code, committers
 Additionally, G Suite accounts may be assigned to any contributors to the OpenTitan Project who are proposed by the OpenTitan Technical Committee and approved by the OpenTitan Governing Board (“Authorized Contributors”).
 Committers and Authorized Contributors’ access to @opentitan.org G Suite accounts and related access must be in compliance with:
 - This Communications Policy
-- The [OpenTitan Acceptable Trademark Use Policy](./trademarks.md)
+- The OpenTitan Acceptable Trademark Use Policy
 - and the OpenTitan [Code of Conduct](./code_of_conduct.md).
 
 For the avoidance of doubt, Committers and Authorized Contributors’ may use their @opentitan.org G Suite accounts to set up profiles and contribute comments in public discussion on sites such as Reddit, Hacker News, etc., if and only if those @opentitan.org G Suite linked accounts are only used to confirm publicly available information, such as pointing to official OpenTitan Project documentation or official OpenTitan blog posts.

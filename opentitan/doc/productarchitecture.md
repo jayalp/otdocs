@@ -1,6 +1,6 @@
 # Product Architecture
 
-## [Security](../doc/security/README.md)
+## [Security](./security/README.md)
 
 OpenTitan’s mission is to create a trustworthy, vendor-agnostic open source silicon Root of Trust (RoT) widely adopted across the industry.
 We do this by implementing strong logical security integrity guarantees in the hardware and firmware components, and restricting licensing of the OpenTitan trademark to those implementations conforming to OpenTitan standards.
@@ -8,7 +8,7 @@ We do this by implementing strong logical security integrity guarantees in the h
 ## [IP blocks](../hw/ip/README.md)
 
 OpenTitan IP is available as individual IP blocks, each conforming to the framework of lowRISC ecosystem IP, suitable for inclusion in compliant designs.
-For more details, refer to an outline of the [quality expectations]((./doc/contributing/hw/comportability/README.md)) of lowRISC IP.
+For more details, refer to an outline of the [quality expectations](./contributing/hw/comportability/README.md) of lowRISC IP.
 
 ## OpenTitan [Earl Grey](../hw/top_earlgrey/doc/datasheet.md)
 

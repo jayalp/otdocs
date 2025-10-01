@@ -1,10 +1,10 @@
 - [About OpenTitan](./doc/sections/opentitan.md)
 
   - [Introduction](./README.md)
-  - [Product Architecture](./doc/project_governance/productarchitecture.md)
+  - [Product Architecture](./doc/productarchitecture.md)
   - [History](./doc/project_governance/history.md)
   - [lowRISC CIC](./doc/project_governance/lowRISC.md)
- 
+
 - [Governance and Policies](./doc/sections/governance.md)
 
   - [Introduction](./doc/project_governance/README.md)

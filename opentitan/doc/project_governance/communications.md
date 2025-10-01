@@ -17,7 +17,7 @@ All discussions in the OpenTitan GitHub repositories are subject to the OpenTita
 The OpenTitan Project will maintain documents and discussion lists for the purposes of facilitating collaboration.
 These resources will include an OpenTitan Team Google Drive folder that will not be publicly accessible, but which will be made semi-open through the assignment of “@opentitan.org” G Suite accounts to external contributors.
 This assignment of G Suite accounts and resource access will be made for approved [Committers](./committers.md).
-Committers are individuals with repository write access. 
+Committers are individuals with repository write access.
 While everyone can and is encouraged to contribute by reviewing code, committers are responsible for final approval and merge.
 Additionally, G Suite accounts may be assigned to any contributors to the OpenTitan Project who are proposed by the OpenTitan Technical Committee and approved by the OpenTitan Governing Board (“Authorized Contributors”).
 Committers and Authorized Contributors’ access to @opentitan.org G Suite accounts and related access must be in compliance with:
@@ -31,7 +31,7 @@ For the avoidance of doubt, Committers and Authorized Contributors’ may use th
 
 Similarly, if a Committer or Authorized Contributor accidentally used an @opentitan.org G Suite account for unapproved communications, notify press@lowrisc.org as soon as possible.
 Any unauthorized attempt to use an @opentitan.org email address or G Suite account to impersonate a lowRISC employee, member of the Governing Board or official spokesperson ( i.e. , making statements as if one is answering authoritatively, officially, or with permission) on behalf of the OpenTitan Project will be considered a violation of this Communications Policy and the violating Authorized Contributor will lose authorization and G Suite access.
-Similarly, any unauthorized or bad faith attempts to misuse this access to represent OpenTitan or imply official affiliation or authorization where none exists will be considered a violation of this Communications Policy and potentially the Acceptable Trademark Use Policy as well. 
+Similarly, any unauthorized or bad faith attempts to misuse this access to represent OpenTitan or imply official affiliation or authorization where none exists will be considered a violation of this Communications Policy and potentially the Acceptable Trademark Use Policy as well.
 If a Committer or Authorized Contributor violates this Communications Policy, the violating individual will lose authorization and G Suite access at the discretion of the OpenTitan Governing Board.
 
 ## Communications by OpenTitan Partners
@@ -43,13 +43,13 @@ The organizations or corporations that have signed the lowRISC Partner Agreement
 * Factual information based on the latest OpenTitan FAQ document maintained by press@lowrisc.org ;
 * Publicly shared email aliases for relevant OpenTitan points of contact, e.g. , press@lowrisc.org for press inquiries, and get-involved@opentitan.org and getinvolved@lowrisc.org for anyone interested in contributing.
 
-These statements may be made in social media ( e.g. , Tweets, Facebook posts, etc.) as well as in blog posts or interviews with the press and/or industry analysts. 
+These statements may be made in social media ( e.g. , Tweets, Facebook posts, etc.) as well as in blog posts or interviews with the press and/or industry analysts.
 All Partner blog posts should be shared in draft form with press@lowrisc.org prior to publication in order to ensure accuracy and consistency.
 Similarly the employees and/or contractors of Partners may confirm on social media that they are working on the OpenTitan project if that is factually correct.
 
 ## Publication
 
-OpenTitan Partners and individuals affiliated with the OpenTitan Partners may wish to publish material related to OpenTitan.  
+OpenTitan Partners and individuals affiliated with the OpenTitan Partners may wish to publish material related to OpenTitan.
 This may include (but is not limited to) blog articles, videos, papers and presentations, referred to this document as “articles”.
 If individuals affiliated with the OpenTitan Partners wish to publish about OpenTitan, the articles should be shared in draft form with press@lowrisc.org prior to publication and permission secured before posting.
 If individuals wish to present articles about OpenTitan but have no direct relationship with the OpenTitan Project, such as working at a Partner organization as a full time or temporary employee but with no insider knowledge of the OpenTitan Project ( e.g. , in no way contributing to OpenTitan or knowledgeable about internal conversations regarding OpenTitan contributions), they may write articles in a personal capacity so long as it is prominently disclaimed at the start of the article that it is a personal article, shared without authorization and not representing the opinions of the OpenTitan Project or its Partners.

@@ -4,13 +4,13 @@
 
 ![OpenTitan booting](../images/otboot.jpg)
 
-Google launched the OpenTitan project together with lowRISC and its partners in 2018 with the goal to make a completely transparent and trustworthy secure silicon platform. 
+Google launched the OpenTitan project together with lowRISC and its partners in 2018 with the goal to make a completely transparent and trustworthy secure silicon platform.
 It is the world’s first open-source secure chip to include commercial-grade design verification, top-level testing and continuous integration.
 
-With Google’s support, the project took off from its first year, setting it on a trajectory to make it the most active and successful open-source silicon project in history. 
-Throughout its lifetime, the OpenTitan coalition thrived as an open silicon ecosystem, consistently following a well-defined roadmap from discrete to integrated secure silicon designs. 
-The project partners are deeply engaged in this process, ensuring that the final designs are adaptable to many applications. 
-OpenTitan also has a large and growing community of contributors beyond its formal partners. 
+With Google’s support, the project took off from its first year, setting it on a trajectory to make it the most active and successful open-source silicon project in history.
+Throughout its lifetime, the OpenTitan coalition thrived as an open silicon ecosystem, consistently following a well-defined roadmap from discrete to integrated secure silicon designs.
+The project partners are deeply engaged in this process, ensuring that the final designs are adaptable to many applications.
+OpenTitan also has a large and growing community of contributors beyond its formal partners.
 As a whole, the community resolves hundreds of pull requests and issues monthly.
 
 ## 2025

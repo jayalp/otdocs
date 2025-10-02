@@ -30,7 +30,7 @@ For the avoidance of doubt, Committers and Authorized Contributors’ may use th
 **Prior to using @opentitan.org G Suite accounts to publicly share any information or comment beyond what is already publicly available, Committers and Authorized Contributors must contact press@lowrisc.org for permission**.
 
 Similarly, if a Committer or Authorized Contributor accidentally used an @opentitan.org G Suite account for unapproved communications, notify press@lowrisc.org as soon as possible.
-Any unauthorized attempt to use an @opentitan.org email address or G Suite account to impersonate a lowRISC employee, member of the Governing Board or official spokesperson ( i.e. , making statements as if one is answering authoritatively, officially, or with permission) on behalf of the OpenTitan Project will be considered a violation of this Communications Policy and the violating Authorized Contributor will lose authorization and G Suite access.
+Any unauthorized attempt to use an @opentitan.org email address or G Suite account to impersonate a lowRISC employee, member of the Governing Board or official spokesperson (i.e., making statements as if one is answering authoritatively, officially, or with permission) on behalf of the OpenTitan Project will be considered a violation of this Communications Policy and the violating Authorized Contributor will lose authorization and G Suite access.
 Similarly, any unauthorized or bad faith attempts to misuse this access to represent OpenTitan or imply official affiliation or authorization where none exists will be considered a violation of this Communications Policy and potentially the Acceptable Trademark Use Policy as well.
 If a Committer or Authorized Contributor violates this Communications Policy, the violating individual will lose authorization and G Suite access at the discretion of the OpenTitan Governing Board.
 
@@ -43,7 +43,7 @@ The organizations or corporations that have signed the lowRISC Partner Agreement
 * Factual information based on the latest OpenTitan FAQ document maintained by press@lowrisc.org ;
 * Publicly shared email aliases for relevant OpenTitan points of contact, e.g. , press@lowrisc.org for press inquiries, and get-involved@opentitan.org and getinvolved@lowrisc.org for anyone interested in contributing.
 
-These statements may be made in social media ( e.g. , Tweets, Facebook posts, etc.) as well as in blog posts or interviews with the press and/or industry analysts.
+These statements may be made in social media (e.g., Tweets, Facebook posts, etc.) as well as in blog posts or interviews with the press and/or industry analysts.
 All Partner blog posts should be shared in draft form with press@lowrisc.org prior to publication in order to ensure accuracy and consistency.
 Similarly the employees and/or contractors of Partners may confirm on social media that they are working on the OpenTitan project if that is factually correct.
 

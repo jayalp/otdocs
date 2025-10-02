@@ -11,7 +11,8 @@ To that end, we have a few ground rules that we ask people to adhere to:
 * be careful in the words that you choose and be kind to others, and
 * when we disagree, try to understand why.
 
-This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended – a guide to make it easier to communicate and participate in the community.
+This isn’t an exhaustive list of things that you can’t do.
+Rather, take it in the spirit in which it’s intended – a guide to make it easier to communicate and participate in the community.
 
 This code of conduct applies to all spaces managed on behalf of the OpenTitan project.
 This includes:
@@ -62,7 +63,7 @@ In addition, violations of this code outside these spaces may, in rare cases, af
   * Violent threats or language directed against another person.
   * Discriminatory jokes and language.
   * Posting sexually explicit or violent material.
-  * Posting (or threatening to post) other people’s personally identifying information (“doxing”).
+  * Posting (or threatening to post) other people’s personally identifying information ("doxing").
   * Personal insults, especially those using racist or sexist terms.
   * Unwelcome sexual attention.
   * Advocating for, or encouraging, any of the above behaviour.
@@ -99,8 +100,10 @@ Reports can be as formal or informal as needed for the situation at hand.
 If possible, please include as much information as you can. If you feel comfortable, please consider including:
 
 * Your contact info (so we can get in touch with you if we need to follow up).
-* Names (real, nicknames, or pseudonyms) of any individuals involved. If there were other witnesses besides you, please try to include them as well.
-* When and where the incident occurred. Please be as specific as possible.
+* Names (real, nicknames, or pseudonyms) of any individuals involved.
+  If there were other witnesses besides you, please try to include them as well.
+* When and where the incident occurred.
+  Please be as specific as possible.
 * Your account of what occurred. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger) please include a link.
 * Any extra context you believe existed for the incident.
 * If you believe this incident is ongoing.
@@ -117,20 +120,20 @@ The Code of Conduct team will immediately meet to review the incident and try to
 * Whether the incident requires escalation to the OpenTitan Governing Board
 
 If this is determined to be an ongoing incident or a threat to physical safety, the working groups’ immediate priority will be to protect everyone involved.
-This means we may delay an “official” response until we believe that the situation has ended and that everyone is physically safe.
+This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.
 The Code of Conduct team will try to contact other parties involved or witnessing the event to gain clarity on what happened and understand different perspectives.
 Once the Code of Conduct team has a complete account of the events they will make a decision as to how to respond.
 The Code of Conduct team may make any of the responses below, notifying the OpenTitan Governing Board of the action taken:
 
-* Nothing, if we determine no violation occurred or it has already been appropriately resolved.
-* Providing either moderation or mediation to ongoing interactions (where appropriate, safe, and desired by both parties).
+* No action, if we determine no violation occurred or it has already been appropriately resolved.
+* Moderation or mediation to ongoing interactions (where appropriate, safe, and desired by both parties).
 * A private reprimand from the working group to the individuals involved.
 
 In more serious cases the Code of Conduct team will escalate a proposed response to the OpenTitan Governing Board, with the final decision and action resting with the Governing Board.
 
-* An imposed vacation (i.e. asking someone to “take a week off” from a mailing list or IRC).
+* An imposed vacation (i.e. asking someone to "take a week off" from a mailing list or IRC).
 * A public reprimand.
-* A permanent or temporary ban from some or all OpenTitanspaces (mailing lists, chat, events, etc.)
+* A permanent or temporary ban from some or all OpenTitan spaces (mailing lists, chat, events, etc.)
 * Involvement of relevant law enforcement if appropriate.
 
 If the situation is not resolved within one week, we’ll respond within one week to the original reporter with an update and explanation.
@@ -145,7 +148,8 @@ If that’s the case, the identities of anyone involved will remain confidential
 Only permanent resolutions (such as bans) or requests for public actions may be appealed.
 To appeal a decision of the OpenTitan Governing Board, contact the lowRISC board at board@lowRISC.org with your appeal and the board will review the case.
 In general, it is not appropriate to appeal a particular decision on a public mailing list.
-Doing so would involve disclosure of information which would be confidential. Disclosing this kind of information publicly may be considered a separate and (potentially) more serious violation of the Code of Conduct.
+Doing so would involve disclosure of information which would be confidential.
+Disclosing this kind of information publicly may be considered a separate and (potentially) more serious violation of the Code of Conduct.
 This is not meant to limit discussion of the Code of Conduct, the Code of Conduct team itself, or the appropriateness of responses in general, but please refrain from mentioning specific facts about cases without the explicit permission of all parties involved.
 
 ## Members of the Code of Conduct team

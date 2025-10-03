@@ -754,7 +754,11 @@
 
 # Hardware Reference
 
-- [Top Earlgrey](./hw/top_earlgrey/README.md)
-- [Top Darjeeling](./hw/top_darjeeling/README.md)
-- [Hardware Blocks](./hw/ip/README.md)
-- [Hardware Primitives](./hw/ip/prim/README.md)
+[Top Earlgrey](./hw/top_earlgrey/README.md)
+
+[Top Darjeeling](./hw/top_darjeeling/README.md)
+
+[Hardware Blocks](./hw/ip/README.md)
+
+[Hardware Primitives](./hw/ip/prim/README.md)
+

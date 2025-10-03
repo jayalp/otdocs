@@ -754,6 +754,8 @@
 
 # Hardware Reference
 
+[Dummy link](./hw/README.md)
+
 [Top Earlgrey](./hw/top_earlgrey/README.md)
 
 [Top Darjeeling](./hw/top_darjeeling/README.md)

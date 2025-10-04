@@ -139,7 +139,7 @@
       - [Device Interface Functions](./sw/device/lib/dif/dif_sensor_ctrl.h)
       - [Checklist](./hw/top_earlgrey/ip/sensor_ctrl/doc/checklist.md)
     - [TL-UL Checklist](./hw/top_earlgrey/ip/xbar/doc/checklist.md)
-  
+
   - [Top Darjeeling](./hw/top_darjeeling/README.md)
     - [Datasheet](./hw/top_darjeeling/doc/datasheet.md)
     - [Pinout / Pinmux Tables](./hw/top_darjeeling/ip_autogen/pinmux/doc/targets.md)
@@ -232,7 +232,7 @@
       - [Registers](./hw/top_darjeeling/ip_autogen/rstmgr/doc/registers.md)
       - [Device Interface Functions](./sw/device/lib/dif/dif_rstmgr.h)
       - [Checklist](./hw/top_darjeeling/ip_autogen/rstmgr/doc/checklist.md)
-  
+
   - [Cores](./hw/doc/cores.md)
     - [Ibex RISC-V Core Wrapper](./hw/top_earlgrey/ip_autogen/rv_core_ibex/README.md)
       - [Theory of Operation](./hw/top_earlgrey/ip_autogen/rv_core_ibex/doc/theory_of_operation.md)
@@ -763,4 +763,3 @@
 [Hardware Blocks](./hw/ip/README.md)
 
 [Hardware Primitives](./hw/ip/prim/README.md)
-

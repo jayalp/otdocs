@@ -22,7 +22,7 @@
   - [Trusted Platform Module](./doc/use_cases/tpm/README.md)
   - [Universal 2nd-Factor Security Key](./doc/use_cases/u2f/README.md)
 
-- [Specification](./doc/sections/specification.md)
+- [Hardware](./doc/sections/specification.md)
 
   - [Introduction](./hw/README.md)
   - [Top Earlgrey](./hw/top_earlgrey/README.md)

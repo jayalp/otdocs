@@ -754,12 +754,12 @@
 
 # Hardware Reference
 
-[Dummy link](./hw/README.md)
+[Dummy link to support preceding header]()
 
 [Top Earlgrey](./hw/top_earlgrey/README.md)
 
 [Top Darjeeling](./hw/top_darjeeling/README.md)
 
-[Hardware Blocks](./hw/ip/README.md)
+[Hardware IP Blocks](./hw/ip/README.md)
 
 [Hardware Primitives](./hw/ip/prim/README.md)

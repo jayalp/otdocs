@@ -7,7 +7,8 @@ If you are interested in joining the OpenTitan Project, please contact get-invol
 ## Why join as a partner?
 
 Partners have a range of benefits, including:
-- Early visibility into roadmaps, and to influence the direction of the project
+- To contribute to, and influence the direction of the project
+- Early visibility into roadmaps and vulnerabilities
 - Long-term support and maintenance
 - Marketing benefits and demonstrate leadership in security
 - Demonstrate compliance with the project/product - e.g. by using the trademark
@@ -25,7 +26,7 @@ Gold partners gain the following key benefits:
 - Gold membership allows partners to use [OpenTitan certification and trademark](./licensing.md). 
 - In order to assist with a chip design, they are allowed to maintain one branch on which regressions are run, in addition to the regressions run on mainline.
 - Advance visibility of OpenTitan security issues
-- Gold partners are allowed 100 x [opentitan.org user accounts](./useraccounts.md).
+- Gold partners are allowed up to 100 x [opentitan.org user accounts](./useraccounts.md).
 - In addition to all benefits available to Silver partners
 
 ## Silver partners
@@ -46,26 +47,26 @@ OpenTitan bronze partners are typically smaller organisations who wish to suppor
 
 Bronze partners gain the following key benefits:
 - Employees are allowed to join [Working Groups](./working_group.md) to contribute to technical direction.
-- A partner organisational contributor license allows individual employees to contribute
+- Partnership allows individual employees to contribute
 - Bronze partners are allowed 1 x [opentitan.org user account](./useraccounts.md) and may purchase more.
 
 ## Tools partners
 
-OpenTitan tools partners are typically EDA tools organisations who wish to support the project as a reference design for their tools.
+OpenTitan tools partners are typically EDA tools organisations who wish to support reference designs for their tools.
 
 Tools partners gain the following benefits:
 - Partners have their company logo on OpenTitan collateral
-- Partners contribute tools for CI and regression testing
+- Partners' tools are integrated in the OpenTitan CI and regression testing flows.
 - Tools partners are informed of results from regression testing, including any observed issues.
 - Tools partners are allowed 1 x [opentitan.org user account](./useraccounts.md) and may purchase more.
 
 ## Individual collaborator
 
-OpenTitan individual collaborator are individuals (e.g. academics) with rights to their own submissions.
-Where individuals are working within organisations, it is strongly advised that the organisations become Bronze partners to ensure an organisational contributor license is available to cover IP rights.
+OpenTitan individual collaborators are individuals (e.g. academics) with rights to their own submissions.
+Where individuals are working within organisations, it is strongly advised that the organisations become (at least) Bronze partners to ensure an organisational contributor license is available to cover IP rights.
 
-Individual collaborator gain the following key benefits:
-- Individual collaborator are allowed 1 x [opentitan.org user account](./useraccounts.md) and may purchase more.
+Individual collaborators gain the following key benefits:
+- Individual collaborators are allowed 1 x [opentitan.org user account](./useraccounts.md) and may purchase more.
 
 ## Summary
 
@@ -74,14 +75,13 @@ Individual collaborator gain the following key benefits:
 | Gold    | [Discuss](mailto:get-involved@opentitan.org)   |  1   |  1   |  Y   |  100    | OpenTitan certification and trademark<br>Regressions on one branch |
 | Silver  | [Discuss](mailto:get-involved@opentitan.org)   |      |      |  Y   |   10     | Company logo on OpenTitan collateral<br>Advanced visibility of internal roadmaps<br>Individuals as committers |
 | Bronze  | [Discuss](mailto:get-involved@opentitan.org)   |      |      |  Y   |    1     | Allowed to join Working Groups<br>Organisational contributor license |
-| Tools   |     -       |      |      |      |    1     | Company logo on OpenTitan collateral<br>Results from regression testing |
-| Indiv   |     -       |      |      |      |    1     |          |
 
 # How are membership fees used?
 
 Partner fees are used to fund work on OpenTitan.
 They ensure a strong foundation to the project.
-Partner fees are applied in the priority shown.  The level of funding for later functions in the list will depend on the funds available and the amount consumed by the critical items earlier in the list.
+Partner fees are applied in the priority shown.  
+The level of funding for later functions in the list will depend on the funds available and the amount consumed by the critical items earlier in the list.
 
 1. **Infrastructure** - Purchasing, managing and maintaining the hardware and tools required to run OpenTitan.
 2. **Compliance and Governance** - Ensuring that the OpenTitan project is well run and compliant to legal requirements, and that all material is accurate, maintained and legal.  Handling security vulnerabilities in OpenTitan-certified chips.

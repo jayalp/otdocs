@@ -1,6 +1,4 @@
-# lowRISC CIC
-
-![lowRISC logo](https://lowrisc.org/wp-content/uploads/2024/05/lowRISC-logo-red-White.svg)
+![lowRISC CIC](../images/lowrisc_logo.png)
 
 [lowRISC](https://lowrisc.org/) functions as the steward and maintainer of the OpenTitan and Ibex projects.
 

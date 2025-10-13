@@ -9,6 +9,7 @@
     - [Partnership](./doc/project_governance/partnership.md)
     - [OpenTitan News]()
     - [Roadmap]()
+    - [Approved RFCs](./doc/project_governance/rfc_approved.md)
     - [Improvements]()
 
 - [Governance and Policies](./doc/sections/governance.md)

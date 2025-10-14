@@ -2,32 +2,41 @@
 
 The [OpenTitan RFC process](./rfc_process.md) is the mechanism by which technical proposals can be reviewed and voted upon by the Technical Committee (TC).
 
-Past approved RFCs are shown below.
-A full description can be found from the issue linked below.
+RFCs can be viewed on GitHub as below:
+- [Approved RFCs](https://github.com/lowRISC/opentitan/issues?q=is%3Aissue%20label%3ARFC%3AApproved)
+- [RFCs in Review](https://github.com/lowRISC/opentitan/issues?q=is%3Aissue%20label%3A%22RFC%3ATC%20Review%22)
+- [Proposed RFCs](https://github.com/lowRISC/opentitan/issues?q=is%3Aissue%20label%3ARFC%3AProposal)
 
- Date | Issue | Title 
-------|-------|-------
- 2025-10 | [7688](https://github.com/lowRISC/opentitan/issues/7688) | CSRs for Prims 
- 2025-10 | [27697](https://github.com/lowRISC/opentitan/issues/27697) |  Fuse Zeroization and In-Field Programming 
- 2025-10 | [22178](https://github.com/lowRISC/opentitan/issues/22178) |  Specification 
- 2025-05 | [25642](https://github.com/lowRISC/opentitan/pull/25642) | Initial ROM vendor hooks implementation 
- 2025-03 | [26351](https://github.com/lowRISC/opentitan/pull/26351) |   Add input period counter feature 
- 2025-02 | [25051](https://github.com/lowRISC/opentitan/issues/25051) |  HW description rules RFC 
- 2025-02 | [25050](https://github.com/lowRISC/opentitan/issues/25050) |  SW RFC 
- 2025-01 | [24365](https://github.com/lowRISC/opentitan/issues/24365) |  Migrating to Bzlmod 
- 2024-12 | [24281](https://github.com/lowRISC/opentitan/issues/24281) |  enable generating DICE certificates for several profiles 
- 2024-07 | [23144](https://github.com/lowRISC/opentitan/issues/23144) |  SLH-DSA Updates for Earl Grey 
- 2024-05 | [21204](https://github.com/lowRISC/opentitan/issues/21204) |  Move ROM keys to OTP 
- 2024-03 | [20829](https://github.com/lowRISC/opentitan/issues/20829) |  Restricting JTAG-based Debug in DEV  
- 2024-02 | [19370](https://github.com/lowRISC/opentitan/issues/19370) |  SPI_DEVICE Updates for PROD 
- 2024-01 | [20788](https://github.com/lowRISC/opentitan/issues/20788) | Removing the S&P Layer in Scrambling for Top Earl Grey 
- 2023-11 | [2603](https://github.com/lowRISC/opentitan/issues/2603) |  Non-Reset vs. Reset Flops Rationale 
- 2023-11 | [15333](https://github.com/lowRISC/opentitan/issues/15333) |  support for block version registers 
- 2023-10 | [16616](https://github.com/lowRISC/opentitan/issues/16616) |  V3 Review Process 
- 2023-09 | [19228](https://github.com/lowRISC/opentitan/issues/19228) | Replace PRNG for random constant generation 
- 2023-08 | [19367](https://github.com/lowRISC/opentitan/issues/19367) |  Version Register Removal 
- 2023-07 | [18750](https://github.com/lowRISC/opentitan/issues/18750) |  Generalized Milestone Definitions 
- 2023-05 | [18393](https://github.com/lowRISC/opentitan/issues/18393) | OpenTitan Hardware Revision and Device ID Registers 
- 2023-02 | [8015](https://github.com/lowRISC/opentitan/issues/8015) |  OpenTitan Test Framework  
- 2023-02 | [17104](https://github.com/lowRISC/opentitan/issues/17104) |  Generalized Issue Priority Definitions 
- 2023-01 | [13396](https://github.com/lowRISC/opentitan/issues/13396) | OpenTitan V3 Milestone - Sign-off Process
+Past approved RFCs are shown below.
+A full description can be found from the issue link below.
+
+ Date | Title 
+------|-------
+ Sep 2025 | [DV Reset Handling](https://docs.google.com/document/d/1EuqafAzlUoFk5BXn7D0FH_Ermh9lCCBcMx2U0QdENKw/edit?tab=t.0)
+ Sep 2025 | [AES-GCM Extension for OpenTitan AES](https://docs.google.com/document/d/1CQMAL9Sgb7258iGOzDrz0KmZWY6pOvbYaAoX5iyqjFY/edit?tab=t.0)
+ Sep 2025 | [AES-GCM Extension SCA Hardening](https://docs.google.com/document/d/1MC4xvWtoIMBq-cy1Qr_ufWusprU1-5HY6hGMPabK9Pg/edit?tab=t.0)
+ Aug 2025 | [Fuse Zeroization and In-Field Programming](https://github.com/lowRISC/opentitan/issues/27697)
+ Jun 2025 | [Move DVSim to its own repo](https://docs.google.com/document/d/1_8-VS1J-rL6-w2ZtUOSSJab-jYRypcgnNheiMS5mYvE/edit)
+ Apr 2025 | [Ext - Integrated OpenTitan: Dual-Signing and revised logical entities](https://docs.google.com/document/d/1r1cuaK2QOrBgoxtneTo-S21Y3lLrQMyJWwuDuXCLDG4/edit?tab=t.0)
+ Mar 2025 | [Add input period counter feature](https://github.com/lowRISC/opentitan/pull/26351)
+ Feb 2025 | [Support vendor customizations](https://github.com/lowRISC/opentitan/issues/25633)
+ Dec 2024 | [Multi-Top HW description rules](https://docs.google.com/document/d/1J65grF7za5kHleVbqIxDfS6ASx_qmcGhegas9UNd3Qk/edit)
+ Dec 2024 | [Multi-Top Device Software](https://docs.google.com/document/d/1_bUIngpTwemiO5uBr07z76RBG1i1zJwzXYEIa2x5J8Q/edit)
+ Nov 2024 | [Integrated OpenTitan: External Alert Routing](https://docs.google.com/document/d/1LGQjasiB6WJ1dL42hTKbzScmEmRQDXurdG6n8ORtJQk/edit?tab=t.0)
+ Dec 2024 | [Integrated OpenTitan: Register Access Control (RACL)](https://docs.google.com/document/d/1ebvCOc9IViUzUkntXDjGmi4AQu1ZTtiC1hPIg6YjHUU/edit)
+ Jan 2025 | [Branches and Tags for ot-sca in Upstream OpenTitan](https://docs.google.com/document/d/1JQ7X2a-25v2v05LvIPvPTEqMrON49yVh5vrMAzqaShg/edit)
+ Nov 2024 | [Reference Immutable ROM_EXT with DICE UDS Keygen](https://docs.google.com/document/d/1gpfqmOmNyzFaUgBYbpaKpA05Ti18Q35GjMCOcxjMS4c/edit)
+ Nov 2024 | [Integrated OpenTitan: Access Control Range Check (AC Range)](https://docs.google.com/document/d/1ONAPg0IE--SfHJ_1ZNlShxLU7-zF2Bg6iQQwcQ1EOKI/edit)
+ Nov 2024 | [Integrated OpenTitan: Debug Security Framework](https://docs.google.com/document/d/1vLQnw58WxnXg8od5UqpedkXem-W9xY1iHh01Y5GKuZM/edit)
+ Nov 2024 | [Adopt Bzlmod in OpenTitan](https://docs.google.com/document/d/1KQWdo7jeh9JmKn3OgNA-xFYLfR2hyMyJXlL_Rqadnjc/edit)
+ Oct 2024 | [OpenTitan DICE Certificates](https://docs.google.com/document/d/1zBudM3YyasCoYhchRDLJUKKDEtlCQ4Yc5dx9HEE45HU/edit)
+ Jul 2024 | [Release, Branching and ECO Process](https://docs.google.com/document/d/1Piv8WVs0RJXLgYlj1TyXGKRWnuQ--dmzq5fBWNQ8BzE/edit)
+ May 2024 | [SLH-DSA Updates for Earl Grey](https://docs.google.com/document/d/1QtgKamt56NY_WYtpdsRfYMh5sBEimtbEvkYhCpo8SvU/edit)
+ Mar 2024 | [Ascon Comportable IP Spec](https://docs.google.com/document/u/0/d/1hTnnhm5SoVCBYWObaTSfTLuKE07erR1ZapirLuR6YGU/edit)
+ Mar 2024 | [Root Keys in OTP](https://docs.google.com/document/d/1N0-Wvp73-rzWcpDGFwxt3FAa4oUsOFOgB9SneoOqPyU/edit)
+ Feb 2024 | [DEV with restricted Debug ](https://docs.google.com/document/d/1nY-tAjKvt8aS3tnAEVtIKfN2w0vQx6miXfYvu1O5oWE/edit)
+ Jan 2024 | [Removing the S&P Layer in Scrambling](https://docs.google.com/document/d/18jwkg_I3-3DgLvJDd4Q6CWWeS-sAp9wBvOYVQVkhoLc/edit)
+ Jan 2024 | [Secure Boot Signature Options](https://docs.google.com/document/d/1I6xXSW0Hi-6iTiaaCKRzhv_UazJF9ZpN6XCcQZVlRF4/edit)
+  
+ 
+

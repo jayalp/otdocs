@@ -7,7 +7,7 @@
   - [lowRISC CIC](./doc/project_governance/lowRISC.md)
   - [PLANNED]()
     - [Partnership](./doc/project_governance/partnership.md)
-    - [OpenTitan News]()
+    - [OpenTitan News](./doc/project_governance/news.md))
     - [Roadmap]()
     - [Approved RFCs](./doc/project_governance/rfc_approved.md)
     - [Improvements]()
@@ -23,7 +23,7 @@
   - [PLANNED]()
     - [Trademarks](./doc/project_governance/trademark.md)
     - [User accounts](./doc/project_governance/useraccounts.md)
-
+	
 - [Use Cases](./doc/sections/usecases.md)
 
   - [Introduction](./doc/use_cases/README.md)

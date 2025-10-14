@@ -1,0 +1,2 @@
+# OpenTitan In the News
+

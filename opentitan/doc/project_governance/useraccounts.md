@@ -43,22 +43,22 @@ There are different categories of submitter who use different mechanisms for thi
 
 ### Partner Individuals
 
-Partner Individuals are those working for an OpenTitan Project Partner and designated by that Project Partner as part of its contribution to the OpenTitan project.
+Partner Individuals are those working for an OpenTitan Project Partner and designated by that Project Partner as one of its contributors to the OpenTitan project.
 No separate legal agreement beyond the partner agreement is required.
 
 Partners may identify individuals as Partner Individuals by requesting an OpenTitan account (see below).  
-A number of OpenTitan accounts are available according to the Partnership Tier.   
+A number of OpenTitan accounts are available according to the Partnership agreement.   
 By identifying an individual as a Partner Individual, the Partner authorises them to agree to the terms in the OpenTitan CLA when making contributions.
 
-If a Partner Individual leaves the employment of a Project Partner, the Project Partner must notify lowRISC C.I.C. promptly so that they can be removed from relevant domains.  
+If a Partner Individual leaves the employment of a Project Partner, the Project Partner must notify lowRISC C.I.C. promptly so that they can be removed from the Project.  
 
-### Individual Contributors
+### Individual Collaborators
 
 Individual Collaborators are individuals who wish to make a significant contribution to the OpenTitan project, either on their own or as part of a team.  
 They should not be associated with any company.
 An individual can be 'associated with' a company or other institution by being an employee, consultant or director of the institution, or because they are primarily funded by an institution.
 
-They will need to sign an individual contributor license agreement
+They will need to sign an Individual Collaborator license agreement
 
 ### Non-Partner Individuals
 
@@ -76,7 +76,7 @@ The limit on OpenTitan accounts according to your partnership level is applied t
 If an account is not needed, it can be closed by contacting get-involved@opentitan.org and the account entitlement reused.
 
 ### Requesting other accounts
-Individual contributors should be proposed by lowRISC or a Project Partner and approved by the Governing Board.
+Individual Collaborators should be proposed by lowRISC or a Project Partner and approved by the Governing Board.
 
 Non-Partner individuals should be discussed directly with lowRISC.
 
@@ -93,6 +93,8 @@ The associated storage ("OpenTitan workspaces") are not intended for long-term s
 
 ### Maintenance of OpenTitan accounts
 If you no longer need your OpenTitan account, please notify get-involved@opentitan.org and the account can be closed.
+
+If a Partner Individual leaves the employment of a Project Partner, the Project Partner must notify lowRISC C.I.C. promptly so that they can be removed from the project.
 
 If an OpenTitan account is not being used, it will eventually be closed, following the process below:
 - OpenTitan account usage will be monitored quarterly

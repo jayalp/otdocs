@@ -94,6 +94,8 @@ The associated storage ("OpenTitan workspaces") are not intended for long-term s
 ### Maintenance of OpenTitan accounts
 If you no longer need your OpenTitan account, please notify get-involved@opentitan.org and the account can be closed.
 
+If a Partner Individual leaves the employment of a Project Partner, the Project Partner must notify lowRISC C.I.C. promptly so that they can be removed from the project.
+
 If an OpenTitan account is not being used, it will eventually be closed, following the process below:
 - OpenTitan account usage will be monitored quarterly
 - Using an account is considered any of the following:

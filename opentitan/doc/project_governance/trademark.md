@@ -46,8 +46,7 @@ In order to be eligible for OpenTitan Certification, an implementation of the Op
 (i) meet the standards of the OpenTitan Technical Framework ("Technical Framework") approved by the OpenTitan Governing Board (as described in the OpenTitan Project Charter), and 
 (ii) be approved by the lowRISC Board of Directors.
 
-The Technical Framework for OpenTitan Certification will not be updated frequently but may be amended by the process described in the OpenTitan Project Charter. 
-The OpenTitan Steering Committee will only vote on proposed changes to the Technical Framework if the changes are recommended by the OpenTitan Technical Committee. 
+The Technical Framework for OpenTitan Certification may be amended by a vote by the OpenTitan Governing Board with discussion with the OpenTitan Technical Committee. 
 The Technical Framework will be available in a separate document on the OpenTitan website.
 
 Any other use of the OpenTitan Trademarks to describe or promote an implementation, or to imply affiliation of an implementation with the OpenTitan project, is strictly prohibited.
@@ -61,5 +60,3 @@ Just send an email to legal-committee@lowrisc.org.
 We appreciate the help!
 
 Please do not hesitate to contact us at legal-committee@lowrisc.org if you are unsure whether your intended use of the OpenTitan Trademarks is in compliance with this policy, or to simply ask for permission to use the OpenTitan Trademarks.
-
-

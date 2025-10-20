@@ -6,6 +6,3 @@ RFCs indicate the significant changes on OpenTitan which have recently been agre
 - [Approved RFCs](https://github.com/lowRISC/opentitan/issues?q=is%3Aissue%20label%3ARFC%3AApproved)
 - [RFCs in Review](https://github.com/lowRISC/opentitan/issues?q=is%3Aissue%20label%3A%22RFC%3ATC%20Review%22)
 - [Proposed RFCs](https://github.com/lowRISC/opentitan/issues?q=is%3Aissue%20label%3ARFC%3AProposal)
-
-
-

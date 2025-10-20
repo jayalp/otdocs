@@ -2,7 +2,7 @@
 
 Past news articles related to OpenTitan are below.
 
- Date | Publication | Article 
+ Date | Publication | Article
 ------|-------------|------------
  Sep 2025 | IoT Insider | [Adopt PQC today, IoTSF webinar advises](https://www.iotinsider.com/industries/security/adopt-pqc-today-iotsf-webinar-advises/)
  Aug 2025 | RISC-V Blog | [From Simulation Bottlenecks to Formal Confidence: Leveraging Formal for Exhaustive RISC-V Verification](https://riscv.org/blog/2025/08/from-simulation-bottlenecks-to-formal-confidence-leveraging-formal-for-exhaustive-risc-v-verification/)

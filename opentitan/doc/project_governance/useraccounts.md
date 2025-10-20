@@ -105,4 +105,4 @@ If an OpenTitan account is not being used, it will eventually be closed, followi
 - If an account has not been used for **6 months** it is considered **inactive**
 - If an account is **inactive** the owner will be sent a warning that the account may be deleted
 - If there is no response and the account remains **inactive** the account will be **closed** after **one month**
-- When this happens, all data stored in the associated Google workspace is deleted, with no backup maintained
+- When this happens, all data stored in the associated personal Google workspace (e.g. MyDrive, Calendar, Gmail, etc) is deleted, with no backup maintained

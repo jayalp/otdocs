@@ -6,6 +6,7 @@ This includes:
 - **Contribution**.  Only OpenTitan accounts can be used to contribute code on GitHub
 - **Mailing Lists**.  Only OpenTitan accounts can be used on mailing lists
 - **Groups**.  Governing Board, Technical Committee and Working Group memberships can only use OpenTitan accounts
+
 This page outlines how accounts are obtained and managed.
 
 ## Contributor License Agreement (CLA)
@@ -58,7 +59,7 @@ Individual Collaborators are individuals who wish to make a significant contribu
 They should not be associated with any company.
 An individual can be 'associated with' a company or other institution by being an employee, consultant or director of the institution, or because they are primarily funded by an institution.
 
-They will need to sign an Individual Collaborator license agreement
+They will need to sign an Individual Collaborator license agreement to gain access to OpenTitan.
 
 ### Non-Partner Individuals
 
@@ -83,6 +84,8 @@ Non-Partner individuals should be discussed directly with lowRISC.
 ### Using an OpenTitan account
 All communications using your OpenTitan account are as part of the OpenTitan community.
 Please be aware of, and comply with, the [code of conduct](./code_of_conduct.md)
+
+OpenTitan accounts are for individuals, and should not be shared between individuals, even within the same Partner organisation.
 
 The OpenTitan account is intended for managing communications within OpenTitan.
 The associated storage ("OpenTitan workspaces") are not intended for long-term storage and there is no guarantee that data will not be deleted.

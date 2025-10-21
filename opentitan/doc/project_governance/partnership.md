@@ -22,10 +22,10 @@ Partners have a range of benefits, including:
 OpenTitan gold partners are primarily organisations who want to integrate OpenTitan into their chip designs.
 
 Gold partners gain the following key benefits:
-- One seat on each of the [Governing Board](./governing_board/md) and [Technical Committee](./tech_committee.md) to steer roadmap and technical direction.
-- Gold membership allows partners to use [OpenTitan certification and trademark](./licensing.md). 
-- In order to assist with a chip design, they are allowed to maintain one branch on which regressions are run, in addition to the regressions run on mainline.
-- Advance visibility of OpenTitan security issues
+- One seat on each of the [Governing Board](./governing_board/md) and [Technical Committee](./technical_committee.md) to steer roadmap and technical direction.
+- Gold membership allows partners to use [OpenTitan certification and trademark](./trademark.md). 
+- Advance visibility of OpenTitan security issues ahead of fixes being implemented
+- In order to assist with a chip design, they are allowed to define one branch on which regressions are run, in addition to the regressions run on mainline.
 - Gold partners are allowed up to 100 x [opentitan.org user accounts](./useraccounts.md).
 - In addition to all benefits available to Silver partners
 
@@ -34,8 +34,8 @@ Gold partners gain the following key benefits:
 OpenTitan silver partners are organisations who are involved in the development and direction of OpenTitan but typically do not have an active chip design.
 
 Silver partners gain the following key benefits:
-- Access to agenda and minutes for [Governing Board](./governing_board/md) and [Technical Committee](./tech_committee.md) and ability to propose topics.
-- Silver membership allows partners to have their company logo on OpenTitan collateral
+- One seat on the [Technical Committee](./technical_committee.md) to steer technical direction.
+- Access to agenda and minutes for [Governing Board](./governing_board/md) and ability to propose topics.
 - Advanced visibility of the OpenTitan internal roadmaps
 - Able to have individuals function as [committers](./committers.md) once sufficient experience has been built.
 - Silver partners are allowed 10 x [opentitan.org user accounts](./useraccounts.md) and may purchase more.
@@ -46,6 +46,7 @@ Silver partners gain the following key benefits:
 OpenTitan bronze partners are typically smaller organisations who wish to support the project and enable members of their team to contribute.
 
 Bronze partners gain the following key benefits:
+- Partners have their company logo on OpenTitan collateral and involvement in co-marketing
 - Employees are allowed to join [Working Groups](./working_group.md) to contribute to technical direction.
 - Partnership allows individual employees to contribute
 - Bronze partners are allowed 1 x [opentitan.org user account](./useraccounts.md) and may purchase more.
@@ -55,24 +56,35 @@ Bronze partners gain the following key benefits:
 OpenTitan tools partners are typically EDA tools organisations who wish to support reference designs for their tools.
 
 Tools partners gain the following benefits:
-- Partners have their company logo on OpenTitan collateral
+- Partners have their company logo on OpenTitan collateral and involvement in co-marketing
 - Partners' tools are integrated in the OpenTitan CI and regression testing flows.
 - Tools partners are informed of results from regression testing, including any observed issues.
-- Tools partners are allowed 1 x [opentitan.org user account](./useraccounts.md) and may purchase more.
+- Tools partners are allowed 1 x [opentitan.org user account](./useraccounts.md) to address integration issues and may purchase more.
+
+## Academic partners
+
+OpenTitan academic partners are academic, NGO or public organisations who wish to be involved in OpenTitan for research or to promote the project.
+
+Academic partners gain the following benefits:
+- Partners have their company logo on OpenTitan collateral and involvement in co-marketing
+- Academic partners are allowed to join [Working Groups](./working_group.md)
+- Academic partners can contribute to technical direction.
+- Academic partners are allowed 5 x [opentitan.org user account](./useraccounts.md) and may purchase more.
 
 ## Individual collaborator
 
 OpenTitan individual collaborators are individuals (e.g. academics) with rights to their own submissions.
-Where individuals are working within organisations, it is strongly advised that the organisations become (at least) Bronze partners to ensure an organisational contributor license is available to cover IP rights.
+Where individuals are working within organisations, these organisations should become (at least) Bronze partners to ensure an organisational contributor license is available to cover IP rights.
 
 Individual collaborators gain the following key benefits:
 - Individual collaborators are allowed 1 x [opentitan.org user account](./useraccounts.md) and may purchase more.
+- Individual collaborators may contribute and join [Working Groups](./working_group.md) to contribute to technical direction.
 
 ## Summary
 
 | Level   | Annual cost |  GB  |  TC  |  WG  | Accounts | Benefits |
 | -----   | ----------- | ---- | ---- | ---- | -----    | -------- |
-| Gold    | [Discuss](mailto:get-involved@opentitan.org)   |  1   |  1   |  Y   |  100    | OpenTitan certification and trademark<br>Regressions on one branch |
+| Gold    | [Discuss](mailto:get-involved@opentitan.org)   |  1   |  1   |  Y   |  100     | OpenTitan certification and trademark<br>Regressions on one branch |
 | Silver  | [Discuss](mailto:get-involved@opentitan.org)   |      |      |  Y   |   10     | Company logo on OpenTitan collateral<br>Advanced visibility of internal roadmaps<br>Individuals as committers |
 | Bronze  | [Discuss](mailto:get-involved@opentitan.org)   |      |      |  Y   |    1     | Allowed to join Working Groups<br>Organisational contributor license |
 

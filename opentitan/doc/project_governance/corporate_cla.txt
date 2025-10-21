@@ -1,4 +1,4 @@
-lowRISC CIC – OpenTitan Project ("Project")
+lowRISC CIC - OpenTitan Project ("Project")
 Corporate Contributor License Agreement ("Agreement") v1.0
 
 This version of the Agreement allows an entity ("Corporation") to submit Contributions to the Project and/or to authorise Contributions submitted to the Project by its designated employees.

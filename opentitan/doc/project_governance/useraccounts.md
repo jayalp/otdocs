@@ -1,7 +1,7 @@
 # OpenTitan user accounts
 
 ## OpenTitan accounts
-OpenTitan accounts are required for most OpenTitan activity.
+OpenTitan accounts (an opentitan.org google account with associated project permisisons) are required for most OpenTitan activity.
 This includes:
 - **Contribution**.  Only OpenTitan accounts can be used to contribute code on GitHub
 - **Mailing Lists**.  Only OpenTitan accounts can be used on mailing lists
@@ -83,16 +83,16 @@ Non-Partner individuals should be discussed directly with lowRISC.
 
 ### Using an OpenTitan account
 All communications using your OpenTitan account are as part of the OpenTitan community.
-Please be aware of, and comply with, the [code of conduct](./code_of_conduct.md)
+Please be aware of, and comply with, the [code of conduct](./code_of_conduct.md).
 
 OpenTitan accounts are for individuals, and should not be shared between individuals, even within the same Partner organisation.
 
 The OpenTitan account is intended for managing communications within OpenTitan.
 The associated storage ("OpenTitan workspaces") are not intended for long-term storage and there is no guarantee that data will not be deleted.
-- OpenTitan workspaces should not be used as general storage space to store non-OpenTitan material
-- Company confidential material and non-OpenTitan IP should not be stored in OpenTitan workspaces
+- OpenTitan workspaces should not be used as general storage space to store non-OpenTitan material.
+- Company confidential material and non-OpenTitan IP should not be stored in OpenTitan workspaces.
 - lowRISC, as stewards of OpenTitan, are not responsible for management and backup of OpenTitan workspaces.
-- If OpenTitan accounts are closed, associated workspace data is deleted
+- If OpenTitan accounts are closed, associated workspace data is deleted.
 
 ### Maintenance of OpenTitan accounts
 If you no longer need your OpenTitan account, please notify get-involved@opentitan.org and the account can be closed.

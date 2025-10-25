@@ -60,3 +60,21 @@ For larger proposed changes we ask contributors to:
 * Have the implementation reviewed by the team, address any feedback, and finally have it integrated into the project.
 
 Note that contributions must be accompanied by sign-off text which indicates acceptance of the project's Contributor License Agreement - see [CONTRIBUTING.md](https://github.com/lowRISC/opentitan/blob/master/CONTRIBUTING.md) for details.
+
+## Contributor License Agreement (CLA)
+
+All contributions to the project are under the terms of the [Contributor License Agreement](https://github.com/lowRISC/opentitan/blob/master/CLA) (CLA) which is referenced on every commit.
+This grants patent and copyright licenses to the project so that any submissions can legally be used by OpenTitan and downstream users.
+Copyright remains unchanged.
+
+More than 200 individuals from more than 25 organizations and more than 20 non-organizational individuals have contributed to OpenTitan to date.
+If all of them would add their own attribution or copyright notices, that would clutter the code base.
+Copyright is therefore indicated in OpenTitan files by a generic header:
+
+`Copyright lowRISC contributors (OpenTitan project).`
+
+Detailed and up-to-date attribution for all contributions is available via the Git version control system:
+- `git shortlog --author "<your name>"` lists all contributions under your name.
+- `git shortlog --author "<organization's domain>"` lists all contributions by an organization.
+- `git shortlog -- <path>` lists all contributors for a file or directory tree.
+

@@ -1,7 +1,3 @@
-- [UPDATED IN THIS DRAFT]()
-  - [Contributing](./doc/contributing/README.md)
-  - [User accounts](./doc/project_governance/useraccounts.md)
-
 - [About OpenTitan](./doc/sections/opentitan.md)
 
   - [Introduction](./README.md)

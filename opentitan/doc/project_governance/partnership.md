@@ -77,7 +77,7 @@ OpenTitan individual collaborators are individuals (e.g. academics) with rights 
 Where individuals are working within organisations, these organisations should become (at least) Bronze partners to ensure an organisational contributor license is available to cover IP rights.
 
 Individual collaborators gain the following key benefits:
-- Individual collaborators are allowed 1 x [opentitan.org user account](./useraccounts.md) and may purchase more.
+- Individual collaborators may request 1 x [opentitan.org user account](./useraccounts.md) or may use their own account.
 - Individual collaborators may contribute and join [Working Groups](./working_group.md) to contribute to technical direction.
 
 ## Summary

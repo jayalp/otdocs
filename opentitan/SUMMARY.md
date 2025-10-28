@@ -1,3 +1,10 @@
+- [UPDATED IN THIS DRAFT]()
+  - [Contributing REMOVED](./CONTRIBUTING.md)
+  - [Contributing](./doc/contributing/README.md)
+  - [User accounts](./doc/project_governance/useraccounts.md)
+- [IN DEVELOPMENT]()
+  - [Partnership](./doc/project_governance/partnership.md)
+
 - [About OpenTitan](./doc/sections/opentitan.md)
 
   - [Introduction](./README.md)
@@ -7,9 +14,6 @@
   - [OpenTitan updates - RFCs](./doc/project_governance/rfc_approved.md)
   - [lowRISC CIC](./doc/project_governance/lowRISC.md)
   - [Glossary](./doc/glossary.md)
-  - [PLANNED]()
-    - [Partnership](./doc/project_governance/partnership.md)
-    - [Roadmap]()
 
 - [Governance and Policies](./doc/sections/governance.md)
 

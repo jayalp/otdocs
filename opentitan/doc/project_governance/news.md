@@ -3,7 +3,8 @@
 Past news articles related to OpenTitan are below.
 
  Date | Publication | Article
-------|-------------|------------
+-------|-------------|------------
+ Oct 2025 | Rivos blog | [Rivos Collaborates to Complete Secure Provisioning of Integrated OpenTitan Root of Trust During SoC Production](https://www.rivosinc.com/resources/blog/rivos-collaborates-to-complete-secure-provisioning-of-integrated-opentitan-root-of-trust-during-soc-production)
  Sep 2025 | IoT Insider | [Adopt PQC today, IoTSF webinar advises](https://www.iotinsider.com/industries/security/adopt-pqc-today-iotsf-webinar-advises/)
  Aug 2025 | RISC-V Blog | [From Simulation Bottlenecks to Formal Confidence: Leveraging Formal for Exhaustive RISC-V Verification](https://riscv.org/blog/2025/08/from-simulation-bottlenecks-to-formal-confidence-leveraging-formal-for-exhaustive-risc-v-verification/)
  Jun 2025 | lowRISC News | [lowRISC Tackles Post-Quantum Cryptography Challenges through Research Collaborations](https://lowrisc.org/news/lowrisc-tackles-post-quantum-cryptography-challenges-through-research-collaborations/)

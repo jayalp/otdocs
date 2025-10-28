@@ -5,6 +5,7 @@
 !doc/
 !doc/images/
 !SUMMARY.md
+!CONTRIBUTING.md
 !.gitignore
 *.tpl
 *.sh

@@ -26,10 +26,14 @@ If a Partner Individual leaves the employment of a Project Partner, the Project 
 ### Individual Collaborators
 
 Individual Collaborators are individuals who wish to make a significant contribution to the OpenTitan project, either on their own or as part of a team.
-They should not be associated with any company.
-An individual can be 'associated with' a company or other institution by being an employee, consultant or director of the institution, or because they are primarily funded by an institution.
-
 They will need to sign an Individual Collaborator license agreement to contribute to OpenTitan.
+
+They should not be associated with any company.  An individual is 'associated with' a company or other institution by being an employee, consultant or director of the institution, or because they are primarily funded by an institution.
+
+In most cases where an individual is associated with an organisation, the organisation will join as a Partner and the individual as a Partner Individual.
+
+If an individual is contributing as an individual collaborator, and is associated with an organisation which is not a Partner, as the individual is assigning licenses to the project, 
+the associated organisation will need to sign a [corporate contributor license agreement](./corporate_cla.txt).
 
 ## Account Management
 

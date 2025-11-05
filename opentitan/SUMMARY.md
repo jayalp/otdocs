@@ -2,12 +2,14 @@
   - [Contributing REMOVED](./CONTRIBUTING.md)
   - [Contributing](./doc/contributing/README.md)
   - [User accounts](./doc/project_governance/useraccounts.md)
+  - [Why Open Source?](./doc/project_governance/opensource.md)  
 - [IN DEVELOPMENT]()
   - [Partnership](./doc/project_governance/partnership.md)
 
 - [About OpenTitan](./doc/sections/opentitan.md)
 
   - [Introduction](./README.md)
+  - [Why Open Source?](./doc/project_governance/opensource.md)  
   - [OpenTitan News](./doc/project_governance/news.md))
   - [Product Architecture](./doc/productarchitecture.md)
   - [History](./doc/project_governance/history.md)

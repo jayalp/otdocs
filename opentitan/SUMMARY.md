@@ -1,9 +1,8 @@
-- [UPDATED IN THIS DRAFT]()
+- [CHANGES FOR NEXT RELEASE]()
   - [Contributing REMOVED](./CONTRIBUTING.md)
-  - [Contributing](./doc/contributing/README.md)
-  - [User accounts](./doc/project_governance/useraccounts.md)
-- [IN DEVELOPMENT]()
-  - [Partnership](./doc/project_governance/partnership.md)
+  - [Contributor - Contributing](./doc/contributing/README.md)
+  - [Governance - User accounts](./doc/project_governance/useraccounts.md)
+  - [Governance - Partnership](./doc/project_governance/partnership.md)
 
 - [About OpenTitan](./doc/sections/opentitan.md)
 

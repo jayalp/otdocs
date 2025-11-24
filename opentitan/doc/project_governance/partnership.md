@@ -84,7 +84,7 @@ Individual collaborators gain the following key benefits:
 | Level   | Annual cost |  GB  |  TC  |  WG  | Accounts | Benefits |
 | -----   | ----------- | ---- | ---- | ---- | -----    | -------- |
 | Gold    | [Discuss](mailto:get-involved@opentitan.org)   |  1   |  1   |  Y   |  100     | OpenTitan certification and trademark<br>Regressions on one branch |
-| Silver  | [Discuss](mailto:get-involved@opentitan.org)   |      |      |  Y   |   10     | Company logo on OpenTitan collateral<br>Advanced visibility of internal roadmaps<br>Individuals as committers |
+| Silver  | [Discuss](mailto:get-involved@opentitan.org)   |      |  1   |  Y   |   10     | Company logo on OpenTitan collateral<br>Advanced visibility of internal roadmaps<br>Individuals as committers |
 | Bronze  | [Discuss](mailto:get-involved@opentitan.org)   |      |      |  Y   |    1     | Allowed to join Working Groups<br>Organisational contributor license |
 
 # How are membership fees used?
@@ -94,8 +94,8 @@ They ensure a strong foundation to the project.
 Partner fees are applied in the priority shown.  
 The level of funding for later functions in the list will depend on the funds available and the amount consumed by the critical items earlier in the list.
 
-1. **Infrastructure** - Purchasing, managing and maintaining the hardware and tools required to run OpenTitan.
-2. **Compliance and Governance** - Ensuring that the OpenTitan project is well run and compliant to legal requirements, and that all material is accurate, maintained and legal.  Handling security vulnerabilities in OpenTitan-certified chips.
+1. **Compliance and Governance** - Ensuring that the OpenTitan project is well run and compliant to legal requirements, and that all material is accurate, maintained and legal.  Handling security vulnerabilities in OpenTitan-certified chips.
+2. **Infrastructure** - Purchasing, managing and maintaining the hardware and tools required to run OpenTitan.
 3. **Community** - Supporting the OpenTitan community, managing communication, running meetings, reviewing submitted code.
 4. **Quality** - Maintaining and improving the quality of the OpenTitan project, addressing newer tools versions, improving verification and reducing technical debt.  Research into new threats and security mechanisms.
 5. **Marketing** - Increasing the visibility of OpenTitan, publishing relevant papers, maintaining discussion and promoting the project at conferences.

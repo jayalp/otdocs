@@ -24,7 +24,7 @@ OpenTitan gold partners are primarily organisations who want to integrate OpenTi
 Gold partners gain the following key benefits:
 - One seat on each of the [Governing Board](./governing_board/md) and [Technical Committee](./technical_committee.md) to steer roadmap and technical direction.
 - Gold membership allows partners to use [OpenTitan certification and trademark](./trademark.md). 
-- Advance visibility of OpenTitan security issues ahead of fixes being implemented
+- Advance visibility of OpenTitan security issues ahead of fixes being implemented (subject to agreeing an additional NDA).
 - Gold partners are allowed up to 100 x [opentitan.org user accounts](./useraccounts.md).
 - In addition to all benefits available to Silver partners
 

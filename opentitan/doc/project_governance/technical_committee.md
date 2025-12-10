@@ -7,7 +7,7 @@ It is appointed by the OpenTitan Governing Board (OTGB) and is responsible for t
 
 ## Expectations and Conduct
 
-All OpenTitan spaces, including the OTTC, are covered by the OpenTitan [code of conduct](./doc/project_governance/code_of_conduct.md) to ensure a welcoming and respectful community.
+All OpenTitan spaces, including the OTTC, are covered by the OpenTitan [code of conduct](./code_of_conduct.md) to ensure a welcoming and respectful community.
 Beyond this, OTTC members are expected to follow the guidance below:
 
 * Each OTTC member has a good faith duty to act in the best interests of the OpenTitan Project when performing their role as a OTTC member.
@@ -26,7 +26,6 @@ Other individuals are directly appointed by the OpenTitan Governing Board.
 
 - Andreas Kurth (chair, lowRISC)*
 - Eran Meisner (Nuvoton)*
-- Ravi Sahita (Rivos)*
 - Tim Trippel (Google)*
 - Shimeon Greenberg (Nuvoton)
 - Rupert Swarbrick (lowRISC)

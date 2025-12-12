@@ -1,5 +1,5 @@
 - [CHANGES FOR NEXT RELEASE]()
-  - [Contributing REMOVED](./CONTRIBUTING.md)
+  - [Contributor - Licensing agreements](./CONTRIBUTING.md)
   - [Contributor - Contributing](./doc/contributing/README.md)
   - [Governance - User accounts](./doc/project_governance/useraccounts.md)
   - [Governance - Partnership](./doc/project_governance/partnership.md)
@@ -27,6 +27,7 @@
   - [Trademarks](./doc/project_governance/trademark.md)
   - [Code of Conduct](./doc/project_governance/code_of_conduct.md)
   - [Communication Policy](./doc/project_governance/communications.md)
+  - [Contributor Licensing Agreements](./CONTRIBUTING.md)
 	
 - [Use Cases](./doc/sections/usecases.md)
 

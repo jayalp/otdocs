@@ -1,5 +1,5 @@
 - [CHANGES FOR NEXT RELEASE]()
-  - [Governance - Partnership](./doc/project_governance/partnership.md)
+  - [Governance - Membership](./doc/project_governance/membership.md)
 
 - [About OpenTitan](./doc/sections/opentitan.md)
 
@@ -15,7 +15,7 @@
 - [Governance and Policies](./doc/sections/governance.md)
 
   - [Introduction](./doc/project_governance/README.md)
-  - [Partnership](./doc/project_governance/partnership.md)
+  - [Membership](./doc/project_governance/membership.md)
   - [Governing Board](./doc/project_governance/governing_board.md)
   - [Technical Committee](./doc/project_governance/technical_committee.md)
   - [Working Groups](./doc/project_governance/working_group.md)

@@ -1,9 +1,5 @@
 - [CHANGES FOR NEXT RELEASE]()
-  - [Contributor - Licensing agreements](./CONTRIBUTING.md)
-  - [Contributor - Contributing](./doc/contributing/README.md)
-  - [Governance - User accounts](./doc/project_governance/useraccounts.md)
   - [Governance - Partnership](./doc/project_governance/partnership.md)
-  - [About - Why Open Source?](./doc/project_governance/opensource.md)
 
 - [About OpenTitan](./doc/sections/opentitan.md)
 

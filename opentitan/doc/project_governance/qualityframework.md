@@ -18,4 +18,3 @@ The final state for developed IP is *Signed Off*, indicating that design and ver
 
 To make it to that stage, a [Hardware Signoff Checklist](./checklist/README.md) is used to confirm completion.
 [Here](https://github.com/lowRISC/opentitan/blob/master/util/uvmdvgen/checklist.md.tpl) is a template that can be used as a checklist item.
-

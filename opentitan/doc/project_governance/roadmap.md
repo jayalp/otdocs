@@ -1,4 +1,3 @@
 # OpenTitan Roadmap
 
 TBD
-

@@ -29,7 +29,7 @@ involved.
 ### Organisational Agreement
 
 Under the [CLA](CLA) a Grant of Copyright License is given by the individual to the Project.
-To ensure that the individual is authorised to give this grant, individuals need to be identified as 
+To ensure that the individual is authorised to give this grant, individuals need to be identified as
 a [Partner Individual](./docs/project_governance/useraccounts.md)
 or an [Individual Collaborator](./docs/project_governance/useraccounts.md) with an appropriate agreement.
 
@@ -45,5 +45,3 @@ Detailed and up-to-date attribution for all contributions is available via the G
 - `git shortlog --author "<your name>"` lists all contributions under your name.
 - `git shortlog --author "<organization's domain>"` lists all contributions by an organization.
 - `git shortlog -- <path>` lists all contributors for a file or directory tree.
-
-

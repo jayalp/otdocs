@@ -6,6 +6,3 @@ More detailed records are available in the OpenTitan repository.
 
 | Date | Change |
 | ==== | ====== |
-
-
-

@@ -3,12 +3,12 @@
   - [Contributor - Contributing](./doc/contributing/README.md)
   - [Governance - User accounts](./doc/project_governance/useraccounts.md)
   - [Governance - Partnership](./doc/project_governance/partnership.md)
-  - [About - Why Open Source?](./doc/project_governance/opensource.md)  
+  - [About - Why Open Source?](./doc/project_governance/opensource.md)
 
 - [About OpenTitan](./doc/sections/opentitan.md)
 
   - [Introduction](./README.md)
-  - [Why Open Source?](./doc/project_governance/opensource.md)  
+  - [Why Open Source?](./doc/project_governance/opensource.md)
   - [OpenTitan News](./doc/project_governance/news.md)
   - [Product Architecture](./doc/productarchitecture.md)
   - [History](./doc/project_governance/history.md)
@@ -28,7 +28,7 @@
   - [Code of Conduct](./doc/project_governance/code_of_conduct.md)
   - [Communication Policy](./doc/project_governance/communications.md)
   - [Contributor Licensing Agreements](./CONTRIBUTING.md)
-	
+
 - [Use Cases](./doc/sections/usecases.md)
 
   - [Introduction](./doc/use_cases/README.md)

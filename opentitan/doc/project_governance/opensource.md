@@ -8,6 +8,6 @@
 - Shares investment costs
 - Reduces supplier risk
 
-Our work is open and permissively [licensed](./licensing.md), moving the whole industry forward with flexible, accessible and effective systems and tools.
+Our work is open and permissively licensed, moving the whole industry forward with flexible, accessible and effective systems and tools.
 
 We work closely and [respectfully](./code_of_conduct.md) with [others](./partnership.md), testing new ideas and developing systems together, and sharing what we learn and build.

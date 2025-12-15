@@ -18,7 +18,7 @@ Important points before getting started:
   We follow a hybrid approach involving both silicon and software design practices.
 * OpenTitan is a work in progress.
   We are always looking for ways to improve and welcome feedback on any project matter, technical or not.
-  
+
 **Important**: Please read the next three, short sections on reporting bugs, reporting security issues, and contributing code in preparation for making your first contribution to OpenTitan.
 If you would like more details, see the [Detailed Contribution Guide](./detailed_contribution_guide/README.md).
 
@@ -77,10 +77,9 @@ For larger proposed changes we ask contributors to:
   first.
 * If a relevant bug or tracking issue exists, reference it in the pull request
   and commits.
-  
+
 ## License agreements
-The following information is detailed in the [CONTRIBUTING.md](./CONTRIBUTING.md) file
+The following information is detailed in the [CONTRIBUTING.md](../../CONTRIBUTING.md) file
 * Contributor License agreement
 * Organisational Agreement
 * Use of Copyright messages
-

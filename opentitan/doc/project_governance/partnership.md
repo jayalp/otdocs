@@ -2,7 +2,7 @@
 
 OpenTitan is a collaborative hardware and software development program with contributors from many organizations.
 
-If you are interested in joining the OpenTitan Project, please contact get-involved@opentitan.org  
+If you are interested in joining the OpenTitan Project, please contact get-involved@opentitan.org
 
 ## Why join as a partner?
 
@@ -23,7 +23,7 @@ OpenTitan gold partners are primarily organisations who want to integrate OpenTi
 
 Gold partners gain the following key benefits:
 - One seat on each of the [Governing Board](./governing_board/md) and [Technical Committee](./technical_committee.md) to steer roadmap and technical direction.
-- Gold membership allows partners to use [OpenTitan certification and trademark](./trademark.md). 
+- Gold membership allows partners to use [OpenTitan certification and trademark](./trademark.md).
 - Advance visibility of OpenTitan security issues ahead of fixes being implemented (subject to agreeing an additional NDA).
 - Gold partners are allowed up to 100 x [opentitan.org user accounts](./useraccounts.md).
 - In addition to all benefits available to Silver partners
@@ -91,7 +91,7 @@ Individual collaborators gain the following key benefits:
 
 Partner fees are used to fund work on OpenTitan.
 They ensure a strong foundation to the project.
-Partner fees are applied in the priority shown.  
+Partner fees are applied in the priority shown.
 The level of funding for later functions in the list will depend on the funds available and the amount consumed by the critical items earlier in the list.
 
 1. **Compliance and Governance** - Ensuring that the OpenTitan project is well run and compliant to legal requirements, and that all material is accurate, maintained and legal.  Handling security vulnerabilities in OpenTitan-certified chips.
@@ -100,6 +100,3 @@ The level of funding for later functions in the list will depend on the funds av
 4. **Quality** - Maintaining and improving the quality of the OpenTitan project, addressing newer tools versions, improving verification and reducing technical debt.  Research into new threats and security mechanisms.
 5. **Marketing** - Increasing the visibility of OpenTitan and Open Source Silicon, publishing relevant papers, maintaining discussion and promoting the project at conferences.
 6. **Roadmap** - Progressing and supporting the OpenTitan roadmap and wider support of Open Source Silicon
-
-
-

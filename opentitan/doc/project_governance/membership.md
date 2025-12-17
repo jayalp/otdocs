@@ -27,7 +27,6 @@ of OpenTitan and/or want to have strong influence in the direction of the projec
 - Access to security hardening and trademark certification services from [lowRISC CIC](./lowRISC.md)
 
 **Key Deliverables (details subject to change):**
-- Documentation and software for silicon validation and provisioning
 - Tapeout checklist
 
 **[Member individual accounts](./useraccounts.md)**
@@ -54,7 +53,6 @@ hardened discrete chips based on Earl Grey), and do not feel the need to lead th
 - Integration documentation and tooling
 - Coverage gap analysis for latest release of each IP
 - Integration checklist
-- Penetration testing framework
 - Pre-silicon FI verification: Z01X and Verilator
 - Information (from lowRISC) necessary for Common Criteria certification
 
@@ -72,6 +70,9 @@ They may use the IP in their devices, want to fix bugs or contribute IP to ensur
 - Members have their company logo on OpenTitan collateral and involvement in co-marketing
 - Employees are allowed to join [Working Groups](./working_group.md) to contribute to technical direction.
 - Membership allows individual employees to contribute
+
+**Key Deliverables (details subject to change):**
+- Full test and coverage reports linked from the DV dashboard
 
 **[Member individual accounts](./useraccounts.md)**
 - Bronze members are allowed 1 x individual account and may purchase more.

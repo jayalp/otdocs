@@ -17,7 +17,7 @@
 Partner Individuals are those working for an OpenTitan Project Partner and designated by that Project Partner as one of its contributors to the OpenTitan project.
 No separate legal agreement beyond the partner agreement is required.
 
-Partners may identify individuals as Partner Individuals by requesting an [OpenTitan account](./useraccounts.md).
+Partners may identify individuals as Partner Individuals by requesting an [OpenTitan account](./useraccounts.md#requesting-a-partner-individual-account).
 A number of OpenTitan accounts are available according to the Partnership agreement.
 By identifying an individual as a Partner Individual, the Partner authorises them to agree to the terms in the OpenTitan CLA when making contributions.
 

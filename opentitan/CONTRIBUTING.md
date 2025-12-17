@@ -30,8 +30,8 @@ involved.
 
 Under the [CLA](CLA) a Grant of Copyright License is given by the individual to the Project.
 To ensure that the individual is authorised to give this grant, individuals need to be identified as
-a [Partner Individual](./docs/project_governance/useraccounts.md)
-or an [Individual Collaborator](./docs/project_governance/useraccounts.md) with an appropriate agreement.
+a [Partner Individual](./doc/project_governance/useraccounts.md#partner-individuals)
+or an [Individual Collaborator](./doc/project_governance/useraccounts.md#individual-collaborators) with an appropriate agreement.
 
 ## Copyright messages
 

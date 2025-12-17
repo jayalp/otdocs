@@ -29,7 +29,7 @@ of OpenTitan and/or want to have strong influence in the direction of the projec
 **Key Deliverables (details subject to change):**
 - Tapeout checklist
 
-**[Member individual accounts](./useraccounts.md)**
+**[Member individual accounts](./useraccounts.md):**
 - Gold members are allowed up to 100 x individual accounts.
 
 In addition Gold members gain all benefits available to Silver members
@@ -53,10 +53,10 @@ hardened discrete chips based on Earl Grey), and do not feel the need to lead th
 - Integration documentation and tooling
 - Coverage gap analysis for latest release of each IP
 - Integration checklist
-- Pre-silicon FI verification: Z01X and Verilator
+- Pre-silicon FI verification
 - Information (from lowRISC) necessary for Common Criteria certification
 
-**[Member individual accounts](./useraccounts.md)**
+**[Member individual accounts](./useraccounts.md):**
 - Silver members are allowed 10 x individual accounts and may purchase more.
 
 In addition Silver members gain all benefits available to Bronze members
@@ -86,7 +86,7 @@ OpenTitan tools members are typically EDA tools organisations who wish to suppor
 - Members' tools are integrated in the OpenTitan CI and regression testing flows.
 - Tools members are informed of results from regression testing, including any observed issues.
 
-**[Member individual accounts](./useraccounts.md)**
+**[Member individual accounts](./useraccounts.md):**
 - Tools members are allowed 1 x individual account to address integration issues and may purchase more.
 
 ## Academic / NGO / Public Organization members
@@ -99,7 +99,7 @@ research or to promote the project.
 - Academic members are allowed to join [Working Groups](./working_group.md)
 - Academic members can contribute to technical direction.
 
-**[Member individual accounts](./useraccounts.md)**
+**[Member individual accounts](./useraccounts.md):**
 - Academic members are allowed 5 x individual accounts and may purchase more.
 
 ## Individual collaborator

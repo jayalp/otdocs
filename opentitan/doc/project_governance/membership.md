@@ -16,7 +16,7 @@ Members have a range of benefits, including:
 
 ## Gold members
 
-OpenTitan gold members are primarily organizations who are designing a security hardened chip integrating the whole 
+OpenTitan gold members are primarily organizations who are designing a security hardened chip integrating the whole
 of OpenTitan and/or want to have strong influence in the direction of the project.
 
 **Key benefits:**
@@ -36,7 +36,7 @@ In addition Gold members gain all benefits available to Silver members
 
 ## Silver members
 
-OpenTitan silver members are Organizations who want to integrate OpenTitan IP in their chips (rather than making 
+OpenTitan silver members are Organizations who want to integrate OpenTitan IP in their chips (rather than making
 hardened discrete chips based on Earl Grey), and do not feel the need to lead the direction of the project.
 
 **Key benefits:**
@@ -91,7 +91,7 @@ OpenTitan tools members are typically EDA tools organisations who wish to suppor
 
 ## Academic / NGO / Public Organization members
 
-OpenTitan academic members are academic, NGO or public organisations who wish to be involved in OpenTitan for 
+OpenTitan academic members are academic, NGO or public organisations who wish to be involved in OpenTitan for
 research or to promote the project.
 
 **Key Benefits:**
@@ -106,7 +106,7 @@ research or to promote the project.
 
 OpenTitan individual collaborators are individuals (e.g. academics) with rights to their own submissions.
 
-Note that where individuals are working within organisations, these organisations should become (at least) Bronze members to ensure an 
+Note that where individuals are working within organisations, these organisations should become (at least) Bronze members to ensure an
 [organisational contributor license](../../contributing.md) is available to cover IP rights.
 
 **Key Benefits:**

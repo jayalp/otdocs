@@ -16,7 +16,7 @@ Members have a range of benefits, including:
 
 ## Gold members
 
-OpenTitan gold members are primarily organizations who are designing a security hardened chip integrating the whole 
+OpenTitan gold members are primarily organizations who are designing a security hardened chip integrating the whole
 of OpenTitan and/or want to have strong influence in the direction of the project.
 
 **Key benefits:**
@@ -30,14 +30,14 @@ of OpenTitan and/or want to have strong influence in the direction of the projec
 - Documentation and software for silicon validation and provisioning
 - Tapeout checklist
 
-**[Member individual accounts](./useraccounts.md)**
+**[Member individual accounts](./useraccounts.md):**
 - Gold members are allowed up to 100 x individual accounts.
 
 In addition Gold members gain all benefits available to Silver members
 
 ## Silver members
 
-OpenTitan silver members are Organizations who want to integrate OpenTitan IP in their chips (rather than making 
+OpenTitan silver members are Organizations who want to integrate OpenTitan IP in their chips (rather than making
 hardened discrete chips based on Earl Grey), and do not feel the need to lead the direction of the project.
 
 **Key benefits:**
@@ -55,10 +55,10 @@ hardened discrete chips based on Earl Grey), and do not feel the need to lead th
 - Coverage gap analysis for latest release of each IP
 - Integration checklist
 - Penetration testing framework
-- Pre-silicon FI verification: Z01X and Verilator
+- Pre-silicon FI verification
 - Information (from lowRISC) necessary for Common Criteria certification
 
-**[Member individual accounts](./useraccounts.md)**
+**[Member individual accounts](./useraccounts.md):**
 - Silver members are allowed 10 x individual accounts and may purchase more.
 
 In addition Silver members gain all benefits available to Bronze members
@@ -73,7 +73,7 @@ They may use the IP in their devices, want to fix bugs or contribute IP to ensur
 - Employees are allowed to join [Working Groups](./working_group.md) to contribute to technical direction.
 - Membership allows individual employees to contribute
 
-**[Member individual accounts](./useraccounts.md)**
+**[Member individual accounts](./useraccounts.md):**
 - Bronze members are allowed 1 x individual account and may purchase more.
 
 ## Tools members
@@ -85,12 +85,12 @@ OpenTitan tools members are typically EDA tools organisations who wish to suppor
 - Members' tools are integrated in the OpenTitan CI and regression testing flows.
 - Tools members are informed of results from regression testing, including any observed issues.
 
-**[Member individual accounts](./useraccounts.md)**
+**[Member individual accounts](./useraccounts.md):**
 - Tools members are allowed 1 x individual account to address integration issues and may purchase more.
 
 ## Academic / NGO / Public Organization members
 
-OpenTitan academic members are academic, NGO or public organisations who wish to be involved in OpenTitan for 
+OpenTitan academic members are academic, NGO or public organisations who wish to be involved in OpenTitan for
 research or to promote the project.
 
 **Key Benefits:**
@@ -98,14 +98,14 @@ research or to promote the project.
 - Academic members are allowed to join [Working Groups](./working_group.md)
 - Academic members can contribute to technical direction.
 
-**[Member individual accounts](./useraccounts.md)**
+**[Member individual accounts](./useraccounts.md):**
 - Academic members are allowed 5 x individual accounts and may purchase more.
 
 ## Individual collaborator
 
 OpenTitan individual collaborators are individuals (e.g. academics) with rights to their own submissions.
 
-Note that where individuals are working within organisations, these organisations should become (at least) Bronze members to ensure an 
+Note that where individuals are working within organisations, these organisations should become (at least) Bronze members to ensure an
 [organisational contributor license](../../contributing.md) is available to cover IP rights.
 
 **Key Benefits:**

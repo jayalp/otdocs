@@ -1,7 +1,5 @@
-#Unreleased pages
-  - [Governance - Membership](./doc/project_governance/membership.md)
+# lowRISC Website
 
-#lowRISC Website
 - [About OpenTitan](./doc/sections/opentitan.md)
 
   - [Why Open Source?](./doc/project_governance/opensource.md)
@@ -15,7 +13,7 @@
   - [Trusted Platform Module](./doc/use_cases/tpm/README.md)
   - [Universal 2nd-Factor Security Key](./doc/use_cases/u2f/README.md)
 
-#Working with OpenTitan (new book)
+# Working with OpenTitan (new book)
 
 - [About OpenTitan](./doc/sections/opentitan.md)
 
@@ -109,10 +107,10 @@
     - [Hardware Development Stages](./doc/project_governance/development_stages.md)
     - [Signoff Checklist](./doc/project_governance/checklist/README.md)
     - [Rust for Embedded C Programmers](./doc/rust_for_c_devs.md)
-	
+
 - [Update this documentation](./doc/project_governance/edit.md)
-	
-#OpenTitan Specification
+
+# OpenTitan Specification
 
 - [Hardware](./doc/sections/specification.md)
 

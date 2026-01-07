@@ -1,15 +1,28 @@
-- [CHANGES FOR NEXT RELEASE]()
+#Unreleased pages
   - [Governance - Membership](./doc/project_governance/membership.md)
+
+#lowRISC Website
+- [About OpenTitan](./doc/sections/opentitan.md)
+
+  - [Why Open Source?](./doc/project_governance/opensource.md)
+  - [OpenTitan News](./doc/project_governance/news.md)
+  - [lowRISC CIC](./doc/project_governance/lowRISC.md)
+
+- [Use Cases](./doc/sections/usecases.md)
+
+  - [Introduction](./doc/use_cases/README.md)
+  - [Platform Integrity Module](./doc/use_cases/platform_integrity_module/README.md)
+  - [Trusted Platform Module](./doc/use_cases/tpm/README.md)
+  - [Universal 2nd-Factor Security Key](./doc/use_cases/u2f/README.md)
+
+#Working with OpenTitan (new book)
 
 - [About OpenTitan](./doc/sections/opentitan.md)
 
   - [Introduction](./README.md)
-  - [Why Open Source?](./doc/project_governance/opensource.md)
-  - [OpenTitan News](./doc/project_governance/news.md)
   - [Product Architecture](./doc/productarchitecture.md)
   - [History](./doc/project_governance/history.md)
   - [OpenTitan updates - RFCs](./doc/project_governance/rfc_approved.md)
-  - [lowRISC CIC](./doc/project_governance/lowRISC.md)
   - [Glossary](./doc/glossary.md)
 
 - [Governance and Policies](./doc/sections/governance.md)
@@ -25,12 +38,81 @@
   - [Communication Policy](./doc/project_governance/communications.md)
   - [Contributor Licensing Agreements](./CONTRIBUTING.md)
 
-- [Use Cases](./doc/sections/usecases.md)
+- [Working as a contributor](./doc/sections/contributor.md)
 
-  - [Introduction](./doc/use_cases/README.md)
-  - [Platform Integrity Module](./doc/use_cases/platform_integrity_module/README.md)
-  - [Trusted Platform Module](./doc/use_cases/tpm/README.md)
-  - [Universal 2nd-Factor Security Key](./doc/use_cases/u2f/README.md)
+  - [Getting Started](./doc/getting_started/README.md)
+    - [Workflows](./doc/getting_started/workflows.md)
+    - [Design Verification](./doc/getting_started/setup_dv.md)
+    - [Formal Verification](./doc/getting_started/setup_formal.md)
+    - [Building (and Testing) Software](./doc/getting_started/build_sw.md)
+    - [Building Documentation](./doc/getting_started/build_docs.md)
+    - [Using OpenOCD](./doc/getting_started/using_openocd.md)
+
+    - [Tools Setup](./doc/getting_started/tools-setup.md)
+    - [FPGA Setup](./doc/getting_started/setup_fpga.md)
+    - [Verilator Setup](./doc/getting_started/setup_verilator.md)
+    - [Installing Vivado](./doc/getting_started/install_vivado/README.md)
+
+    - [Unofficial Guides](./doc/getting_started/unofficial/README.md)
+    - [RedHat/Fedora](./doc/getting_started/unofficial/fedora.md)
+
+  - [Contributing](./doc/contributing/README.md)
+
+    - [Detailed Contribution Guide](./doc/contributing/detailed_contribution_guide/README.md)
+    - [Directory Structure](./doc/contributing/directory_structure.md)
+    - [Contributing to Documentation](./doc/contributing/doc/README.md)
+      - [An Example IP Block's Documentation](./doc/contributing/doc/example_ip_block.md)
+    - [Continuous Integration](./doc/contributing/ci/README.md)
+    - [Top-Level Design and Targets](./doc/contributing/system_list.md)
+    - [GitHub Notes](./doc/contributing/github_notes.md)
+    - [Bazel Notes](./doc/contributing/bazel_notes.md)
+    - [Using the Container](./util/container/README.md)
+
+    - [Contributing to Hardware](./doc/contributing/hw/README.md)
+    - [Comportability](./doc/contributing/hw/comportability/README.md)
+    - [RACL](./doc/contributing/hw/racl/README.md)
+    - [Hardware Design](./doc/contributing/hw/design.md)
+    - [Design Methodology](./doc/contributing/hw/methodology.md)
+    - [Vendoring in Hardware](./doc/contributing/hw/vendor.md)
+    - [Linting](./hw/lint/README.md)
+    - [Synthesis Flow](./hw/syn/README.md)
+
+    - [Contributing to Verification](./doc/contributing/dv/README.md)
+    - [Verification Methodology](./doc/contributing/dv/methodology/README.md)
+    - [Security Countermeasure Verification Framework](./doc/contributing/dv/sec_cm_dv_framework/README.md)
+    - [Assertions](./hw/formal/README.md)
+
+    - [Contributing to Software](./doc/contributing/sw/README.md)
+    - [Device Interface Functions](./doc/contributing/sw/device_interface_functions.md)
+    - [Writing and Building Software for OTBN](./doc/contributing/sw/otbn_sw.md)
+
+    - [Committers](./doc/project_governance/committers.md)
+    - [RFC Process](./doc/project_governance/rfc_process.md)
+
+  - [Contributor Guides](./doc/contributing/style_guides/README.md)
+
+    - [HJSON](./doc/contributing/style_guides/hjson_usage_style.md)
+    - [Python](./doc/contributing/style_guides/python_coding_style.md)
+    - [C & C++](./doc/contributing/style_guides/c_cpp_coding_style.md)
+    - [Markdown](./doc/contributing/style_guides/markdown_usage_style.md)
+    - [RISC-V Assembly](./doc/contributing/style_guides/asm_coding_style.md)
+    - [OTBN Assembly](./doc/contributing/style_guides/otbn_style_guide.md)
+    - [Guidance for Volatile](./doc/contributing/style_guides/guidance_for_volatile.md)
+
+    - [Developing on an FPGA](./doc/contributing/fpga/README.md)
+    - [Get a Board](./doc/contributing/fpga/get_a_board.md)
+    - [FPGA Reference Manual](./doc/contributing/fpga/ref_manual_fpga.md)
+    - [Debugging with an ILA](./doc/contributing/fpga/debugging_with_ila.md)
+
+    - [Generalized Priority Definitions](./doc/project_governance/priority_definitions.md)
+    - [Generalized Project Milestone Definitions](./doc/project_governance/project_milestone_definitions.md)
+    - [Hardware Development Stages](./doc/project_governance/development_stages.md)
+    - [Signoff Checklist](./doc/project_governance/checklist/README.md)
+    - [Rust for Embedded C Programmers](./doc/rust_for_c_devs.md)
+	
+- [Update this documentation](./doc/project_governance/edit.md)
+	
+#OpenTitan Specification
 
 - [Hardware](./doc/sections/specification.md)
 
@@ -668,78 +750,6 @@
     - [Signing Guide](./signing/README.md)
     - [TPM2 Test Server](./sw/host/tpm2_test_server/README.md)
 
-- [Working as a contributor](./doc/sections/contributor.md)
-
-  - [Getting Started](./doc/getting_started/README.md)
-    - [Workflows](./doc/getting_started/workflows.md)
-    - [Design Verification](./doc/getting_started/setup_dv.md)
-    - [Formal Verification](./doc/getting_started/setup_formal.md)
-    - [Building (and Testing) Software](./doc/getting_started/build_sw.md)
-    - [Building Documentation](./doc/getting_started/build_docs.md)
-    - [Using OpenOCD](./doc/getting_started/using_openocd.md)
-
-    - [Tools Setup](./doc/getting_started/tools-setup.md)
-    - [FPGA Setup](./doc/getting_started/setup_fpga.md)
-    - [Verilator Setup](./doc/getting_started/setup_verilator.md)
-    - [Installing Vivado](./doc/getting_started/install_vivado/README.md)
-
-    - [Unofficial Guides](./doc/getting_started/unofficial/README.md)
-    - [RedHat/Fedora](./doc/getting_started/unofficial/fedora.md)
-
-  - [Contributing](./doc/contributing/README.md)
-
-    - [Detailed Contribution Guide](./doc/contributing/detailed_contribution_guide/README.md)
-    - [Directory Structure](./doc/contributing/directory_structure.md)
-    - [Contributing to Documentation](./doc/contributing/doc/README.md)
-      - [An Example IP Block's Documentation](./doc/contributing/doc/example_ip_block.md)
-    - [Continuous Integration](./doc/contributing/ci/README.md)
-    - [Top-Level Design and Targets](./doc/contributing/system_list.md)
-    - [GitHub Notes](./doc/contributing/github_notes.md)
-    - [Bazel Notes](./doc/contributing/bazel_notes.md)
-    - [Using the Container](./util/container/README.md)
-
-    - [Contributing to Hardware](./doc/contributing/hw/README.md)
-    - [Comportability](./doc/contributing/hw/comportability/README.md)
-    - [RACL](./doc/contributing/hw/racl/README.md)
-    - [Hardware Design](./doc/contributing/hw/design.md)
-    - [Design Methodology](./doc/contributing/hw/methodology.md)
-    - [Vendoring in Hardware](./doc/contributing/hw/vendor.md)
-    - [Linting](./hw/lint/README.md)
-    - [Synthesis Flow](./hw/syn/README.md)
-
-    - [Contributing to Verification](./doc/contributing/dv/README.md)
-    - [Verification Methodology](./doc/contributing/dv/methodology/README.md)
-    - [Security Countermeasure Verification Framework](./doc/contributing/dv/sec_cm_dv_framework/README.md)
-    - [Assertions](./hw/formal/README.md)
-
-    - [Contributing to Software](./doc/contributing/sw/README.md)
-    - [Device Interface Functions](./doc/contributing/sw/device_interface_functions.md)
-    - [Writing and Building Software for OTBN](./doc/contributing/sw/otbn_sw.md)
-
-    - [Committers](./doc/project_governance/committers.md)
-    - [RFC Process](./doc/project_governance/rfc_process.md)
-
-  - [Contributor Guides](./doc/contributing/style_guides/README.md)
-
-    - [HJSON](./doc/contributing/style_guides/hjson_usage_style.md)
-    - [Python](./doc/contributing/style_guides/python_coding_style.md)
-    - [C & C++](./doc/contributing/style_guides/c_cpp_coding_style.md)
-    - [Markdown](./doc/contributing/style_guides/markdown_usage_style.md)
-    - [RISC-V Assembly](./doc/contributing/style_guides/asm_coding_style.md)
-    - [OTBN Assembly](./doc/contributing/style_guides/otbn_style_guide.md)
-    - [Guidance for Volatile](./doc/contributing/style_guides/guidance_for_volatile.md)
-
-    - [Developing on an FPGA](./doc/contributing/fpga/README.md)
-    - [Get a Board](./doc/contributing/fpga/get_a_board.md)
-    - [FPGA Reference Manual](./doc/contributing/fpga/ref_manual_fpga.md)
-    - [Debugging with an ILA](./doc/contributing/fpga/debugging_with_ila.md)
-
-    - [Generalized Priority Definitions](./doc/project_governance/priority_definitions.md)
-    - [Generalized Project Milestone Definitions](./doc/project_governance/project_milestone_definitions.md)
-    - [Hardware Development Stages](./doc/project_governance/development_stages.md)
-    - [Signoff Checklist](./doc/project_governance/checklist/README.md)
-    - [Rust for Embedded C Programmers](./doc/rust_for_c_devs.md)
-
   - [Tooling](./util/README.md)
 
     - [Design-Related Tooling](./util/design/README.md)
@@ -759,8 +769,6 @@
     - [vendor: Vendoring In Tool](./util/doc/vendor.md)
     - [i2csvg: Generate SVGs of I2C Commands](./util/i2csvg/README.md)
     - [dtgen: Generate Device Tables](./util/dtgen/README.md)
-
-- [Update this documentation](./doc/project_governance/edit.md)
 
 # Hardware Reference
 

@@ -4,6 +4,8 @@ OpenTitan is a collaborative hardware and software development program with cont
 
 If you are interested in joining the OpenTitan Project, please contact get-involved@opentitan.org
 
+Membership benefits and deliverables are subject to change at the sole discretion of lowRISC CIC.
+
 ## Why join as a member?
 
 Members have a range of benefits, including:
@@ -26,7 +28,7 @@ of OpenTitan and/or want to have strong influence in the direction of the projec
 - Ability to propose and/or work on new top-levels
 - Access to security hardening and trademark certification services from [lowRISC CIC](./lowRISC.md)
 
-**Key Deliverables (details subject to change):**
+**Key Deliverables:**
 - Tapeout checklist
 
 **[Member individual accounts](./useraccounts.md):**
@@ -41,14 +43,14 @@ hardened discrete chips based on Earl Grey), and do not feel the need to lead th
 
 **Key benefits:**
 - One seat on the [Technical Committee](./technical_committee.md) to steer technical direction.
-- Access to agenda and minutes for [Governing Board](./governing_board/md) and ability to propose topics.
+- Access to agenda and minutes for the [Governing Board](./governing_board/md) and ability to propose topics.
 - Advanced visibility of the OpenTitan internal roadmaps
 - Ability to vote on roadmap and RFCs through [Technical Committee](./technical_committee.md) membership
 - Early access to major new features under development
 - Able to have individuals function as [committers](./committers.md) once sufficient experience has been built.
 - Access to integration and certification services from [lowRISC CIC](./lowRISC.md)
 
-**Key Deliverables (details subject to change):**
+**Key Deliverables:**
 - Settings for CDC/RDC, CWE checking and AI Agent tools
 - Integration documentation and tooling
 - Coverage gap analysis for latest release of each IP
@@ -71,7 +73,7 @@ They may use the IP in their devices, want to fix bugs or contribute IP to ensur
 - Employees are allowed to join [Working Groups](./working_group.md) to contribute to technical direction.
 - Membership allows individual employees to contribute
 
-**Key Deliverables (details subject to change):**
+**Key Deliverables:**
 - Full test and coverage reports linked from the DV dashboard
 
 **[Member individual accounts](./useraccounts.md)**
@@ -91,8 +93,8 @@ OpenTitan tools members are typically EDA tools organisations who wish to suppor
 
 ## Academic / NGO / Public Organization members
 
-OpenTitan academic members are academic, NGO or public organisations who wish to be involved in OpenTitan for
-research or to promote the project.
+OpenTitan academic members are academic, NGO or public organisations who wish to be involved in OpenTitan for research or to promote the project.
+Flexible benefits to academic members can be negotiated with lowRISC depending on the expected contribution from the academic member.
 
 **Key Benefits:**
 - Members have their company logo on OpenTitan collateral and involvement in co-marketing

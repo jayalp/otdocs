@@ -127,6 +127,8 @@ Note that where individuals are working within organisations, these organisation
 Member fees are used to fund work on OpenTitan.
 They ensure a strong foundation to the project.
 
+![Applying membership fees](../images/ottemple.png)
+
 Member fees are applied in the priority shown below.
 The level of funding for later functions in the list depends on the funds available and the amount consumed by the critical items earlier in the list.
 
@@ -134,5 +136,5 @@ The level of funding for later functions in the list depends on the funds availa
 2. **Infrastructure** - Purchasing, managing and maintaining the hardware and tools required to run OpenTitan.
 3. **Community** - Supporting the OpenTitan community, managing communication, running meetings, reviewing submitted code.
 4. **Quality** - Maintaining and improving the quality of the OpenTitan project, addressing newer tools versions, improving verification and reducing technical debt.  Research into new threats and security mechanisms.
-5. **Marketing** - Increasing the visibility of OpenTitan and Open Source Silicon, publishing relevant papers, maintaining discussion and promoting the project at conferences.
-6. **Roadmap** - Progressing and supporting the OpenTitan roadmap and wider support of Open Source Silicon
+5. **Visibility** - Increasing the visibility of OpenTitan and Open Source Silicon, publishing relevant papers, maintaining discussion and promoting the project at conferences.
+6. **Roadmap** - Progressing and supporting the OpenTitan roadmap

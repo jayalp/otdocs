@@ -79,7 +79,7 @@ For larger proposed changes we ask contributors to:
   and commits.
 
 ## License agreements
-The following information is detailed in the [CONTRIBUTING.md](../../CONTRIBUTING.md) file
+The following information is detailed in the [CONTRIBUTING.md](https://github.com/lowRISC/opentitan/blob/master/CONTRIBUTING.md) file
 * Contributor License agreement
 * Organisational Agreement
 * Use of Copyright messages

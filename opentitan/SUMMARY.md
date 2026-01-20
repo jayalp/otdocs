@@ -1,5 +1,6 @@
+# OpenTitan Website structure
 
-# lowRISC Website
+# Move to lowRISC Website
 
 - [About OpenTitan](./doc/sections/opentitan.md)
 

@@ -4,8 +4,6 @@ OpenTitan is a collaborative hardware and software development program with cont
 
 If you are interested in joining the OpenTitan Project, please contact get-involved@opentitan.org
 
-Membership benefits and deliverables are subject to change at the sole discretion of lowRISC CIC.
-
 ## Why join as a member?
 
 Members have a range of benefits, including:
@@ -119,12 +117,14 @@ Note that where individuals are working within organisations, these organisation
 | Silver  |      |  1   |  Y   |   10     | Steer technical direction.<br>OpenTitan internal roadmaps.<br>Early access to new features.<br>Individuals as committers. |
 | Bronze  |      |      |  Y   |    1     | Company logo on OpenTitan collateral.<br>Join Working Groups.<br>Contributor license. |
 
+Membership benefits and deliverables are subject to change at the sole discretion of lowRISC CIC.
+
 # How are membership fees used?
 
 Member fees are used to fund work on OpenTitan.
 They ensure a strong foundation to the project.
 
-![Applying membership fees](../images/ottemple.png)
+![Applying membership fees](../images/ottemple.svg)
 
 Member fees are applied in the priority shown below.
 The level of funding for later functions in the list depends on the funds available and the amount consumed by the critical items earlier in the list.

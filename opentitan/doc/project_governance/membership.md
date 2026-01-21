@@ -31,7 +31,7 @@ OpenTitan gold members are primarily organizations who are designing a security 
 **[Member individual accounts](./useraccounts.md):**
 - Gold members are allowed up to 100 x individual accounts.
 
-In addition Gold members gain all benefits available to Silver members
+In addition Gold members gain all benefits and deliverables available to Silver members
 
 ## Silver members
 
@@ -57,7 +57,7 @@ OpenTitan silver members are Organizations who want to integrate OpenTitan IP in
 **[Member individual accounts](./useraccounts.md):**
 - Silver members are allowed 10 x individual accounts and may purchase more.
 
-In addition Silver members gain all benefits available to Bronze members
+In addition Silver members gain all benefits and deliverables available to Bronze members
 
 ## Bronze members
 

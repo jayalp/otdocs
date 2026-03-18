@@ -1,42 +1,37 @@
-# OpenTitan Website structure
+# OpenTitan Book
 
-# Move to lowRISC Website
-
-- [About OpenTitan](./doc/sections/opentitan.md)
-
-  - [Why Open Source?](./doc/project_governance/opensource.md)
-  - [OpenTitan News](./doc/project_governance/news.md)
-  - [lowRISC CIC](./doc/project_governance/lowRISC.md)
-
-- [Use Cases](./doc/sections/usecases.md)
-
-  - [Introduction](./doc/use_cases/README.md)
-  - [Platform Integrity Module](./doc/use_cases/platform_integrity_module/README.md)
-  - [Trusted Platform Module](./doc/use_cases/tpm/README.md)
-  - [Universal 2nd-Factor Security Key](./doc/use_cases/u2f/README.md)
-
-# Working with OpenTitan (new book)
+# OpenTitan Introduction
 
 - [About OpenTitan](./doc/sections/opentitan.md)
 
   - [Introduction](./README.md)
+  - [lowRISC CIC](./doc/project_governance/lowrisc.md)
   - [Product Architecture](./doc/productarchitecture.md)
-  - [History](./doc/project_governance/history.md)
+    - [Use Cases](./doc/use_cases/README.md)
+      - [Platform Integrity Module](./doc/use_cases/platform_integrity_module/README.md)
+      - [Trusted Platform Module](./doc/use_cases/tpm/README.md)
+      - [Universal 2nd-Factor Security Key](./doc/use_cases/u2f/README.md)
   - [OpenTitan updates - RFCs](./doc/project_governance/rfc_approved.md)
   - [Glossary](./doc/glossary.md)
+
+ - [Design Verification dashboard](./doc/dashboard.md)
+
+# OpenTitan Contributions
 
 - [Governance and Policies](./doc/sections/governance.md)
 
   - [Introduction](./doc/project_governance/README.md)
   - [Membership](./doc/project_governance/membership.md)
-  - [Governing Board](./doc/project_governance/governing_board.md)
-  - [Technical Committee](./doc/project_governance/technical_committee.md)
-  - [Working Groups](./doc/project_governance/working_group.md)
-  - [User accounts](./doc/project_governance/useraccounts.md)
-  - [Trademarks](./doc/project_governance/trademark.md)
-  - [Code of Conduct](./doc/project_governance/code_of_conduct.md)
-  - [Communication Policy](./doc/project_governance/communications.md)
-  - [Contributor Licensing Agreements](./CONTRIBUTING.md)
+  - [Governance](./doc/sections/governance.md)
+    - [Governing Board](./doc/project_governance/governing_board.md)
+    - [Technical Committee](./doc/project_governance/technical_committee.md)
+    - [Working Groups](./doc/project_governance/working_group.md)
+    - [User accounts](./doc/project_governance/useraccounts.md)
+  - [Policies](./doc/sections/governance.md)
+    - [Trademarks](./doc/project_governance/trademark.md)
+    - [Code of Conduct](./doc/project_governance/code_of_conduct.md)
+    - [Communication Policy](./doc/project_governance/communications.md)
+    - [Contributor Licensing Agreements](./CONTRIBUTING.md)
 
 - [Working as a contributor](./doc/sections/contributor.md)
 
@@ -770,7 +765,7 @@
     - [i2csvg: Generate SVGs of I2C Commands](./util/i2csvg/README.md)
     - [dtgen: Generate Device Tables](./util/dtgen/README.md)
 
-# Hardware Reference
+# OpenTitan Reference
 
 [Dummy link to support preceding header]()
 

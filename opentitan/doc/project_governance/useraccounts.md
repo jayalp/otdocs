@@ -65,7 +65,9 @@ The associated storage ("OpenTitan workspaces") are not intended for long-term s
 ### Maintenance of OpenTitan accounts
 If you no longer need your OpenTitan account, please notify get-involved@opentitan.org and the account can be closed.
 
-If a Partner Individual leaves the employment of a Project Partner, the Project Partner must notify lowRISC C.I.C. promptly so that they can be removed from the project.
+If a Partner Individual leaves the employment of a Project Partner:
+- the Project Partner must notify lowRISC C.I.C. promptly so that they can be removed from the project
+- a nominated company representative should be specified for account data to be transferred as described in the next section
 
 If an OpenTitan account is not being used, it will eventually be closed, following the process below:
 - OpenTitan account usage will be monitored quarterly
@@ -76,4 +78,18 @@ If an OpenTitan account is not being used, it will eventually be closed, followi
 - If an account has not been used for **6 months** it is considered **inactive**
 - If an account is **inactive** the owner will be sent a warning that the account may be deleted
 - If there is no response and the account remains **inactive** the account will be **closed** after **one month**
-- When this happens, all data stored in the associated personal Google workspace (e.g. MyDrive, Calendar, Gmail, etc) is deleted, with no backup maintained
+
+### Management of OpenTitan account data on closure
+OpenTitan accounts include associated personal Google workspace data (e.g. MyDrive, Calendar, Gmail, etc).
+
+When lowRISC C.I.C. is notified of a Partner Individual leaving the Project Partner:
+- user files on MyDrive are transferred to the nominated company representative
+
+If a company ceases to be an OpenTitan member:
+- user files on MyDrive for all accounts are transferred to an archive user account owned by lowRISC with limited access
+
+If an OpenTitan account is closed because of inactivity:
+- user files on MyDrive are transferred to an archive user account owned by lowRISC with limited access
+
+in all of these cases:
+- user accounts are deleted including all other data stored in the associated personal Google workspace (e.g. Calendar, Gmail, etc), with no backup maintained

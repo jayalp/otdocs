@@ -80,16 +80,6 @@ If an OpenTitan account is not being used, it will eventually be closed, followi
 - If there is no response and the account remains **inactive** the account will be **closed** after **one month**
 
 ### Management of OpenTitan account data on closure
-OpenTitan accounts include associated personal Google workspace data (e.g. MyDrive, Calendar, Gmail, etc).
+When a user account is closed, the account is deleted including all other data stored in the associated personal Google workspace (e.g. Calendar, Gmail, etc).
 
-When lowRISC C.I.C. is notified of a Partner Individual leaving the Project Partner:
-- user files on MyDrive are transferred to the nominated company representative
-
-If a company ceases to be an OpenTitan member:
-- user files on MyDrive for all accounts are transferred to an archive user account owned by lowRISC with limited access
-
-If an OpenTitan account is closed because of inactivity:
-- user files on MyDrive are transferred to an archive user account owned by lowRISC with limited access
-
-in all of these cases:
-- user accounts are deleted including all other data stored in the associated personal Google workspace (e.g. Calendar, Gmail, etc), with no backup maintained
+If lowRISC C.I.C. is notified of a Partner Individual leaving the Project Partner, user files on MyDrive are transferred to the nominated company representative.

@@ -47,12 +47,12 @@ OpenTitan silver members are Organizations who want to integrate OpenTitan IP in
 - Access to integration and certification services from [lowRISC CIC](./lowRISC.md)
 
 **Key Deliverables:**
-- Settings for CDC/RDC, CWE checking and AI Agent tools
+- Settings for CDC/RDC
 - Integration documentation and tooling
-- Coverage gap analysis for latest release of each IP
+- Coverage gap analysis reports produced for each IP
 - Integration checklist
 - Pre-silicon FI verification
-- Information (from lowRISC) necessary for Common Criteria certification
+- Information (from lowRISC) for helping with Common Criteria certification
 
 **[Member individual accounts](./useraccounts.md):**
 - Silver members are allowed 10 x individual accounts and may purchase more.

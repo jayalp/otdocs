@@ -23,12 +23,47 @@ We believe in creating a welcoming and respectful community, so we have a few gr
 
 We list these principles as general guidance to make it easier to communicate and participate in the OpenTitan (and lowRISC) community.
 
+## Use of different methods to share information
+
+OpenTitan uses a range of methods to share and document information.
+Each has its advantages and disadvantages, and care should be taken to use the appropriate approach for the circumstance.
+
+### Communicating through email
+
+Emails are convenient but they cannot easily be tracked, archived and shared, especially over a period of time.
+OpenTitan has a number of mailing lists and emails to these are encouraged to raise awareness of discussions and to call for participation.
+However, detailed sharing of information should be through one of the other options.
+
+### Using Google Docs
+
+Google Docs are valuable for initial, broader discussions, for comparing different options and for soliciting comments from a wider audience on a proposal over a longer period of time.
+They are best used within the context of a committee or Working Group, and should be stored on the associated shared drive, rather than on a user's personal workspace.
+
+### Using GitHub Issues
+
+GitHub issues give a more formal record for smaller more suitable for cross-referencing in pull requests, and for presenting smaller proposals.
+They are typically not
+
+
+### Using markdown documents
+
+
+
 ## When to file an issue vs. sending an email vs. creating a document?
 
-GitHub issues and shared Google Docs are generally preferable to email, as these can be more easily tracked, cross-referenced, archived and shared, e.g., with people joining later.
-
-Emails (e.g. to the [opentitan-dev@opentitan.org](https://groups.google.com/a/opentitan.org/forum/#!forum/opentitan-dev) mailing list) are suitable to raise awareness of discussions and to call for participation.
+Emails to mailing lists are suitable to raise awareness of discussions and to call for participation.
 Emails between members of a smaller group are also useful for preliminary evaluations before starting a public issue or document.
+However, alternative methods can be more easily tracked, cross-referenced, archived and shared, and are more visible to people joining later.
+
+GitHub issues give a more formal record for smaller more suitable for cross-referencing in pull requests, and for presenting the final proposal.
+
+
+
+Google Docs are valuable for initial, broader discussions, for comparing different options and for soliciting comments from a wider audience on a proposal over a longer period of time.
+These should be stored on the shared drive for a Committee or Working Group
+
+
+should be stored in the shared
 
 When it comes to technical discussions, either shared documents on Google Docs or GitHub issues may be used.
 The former are more suitable for initial, broader discussions, for comparing different options and for soliciting comments from a wider audience on a proposal over a longer period of time, whereas the latter are more suitable for cross-referencing in pull requests, and for presenting the final proposal.

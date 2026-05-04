@@ -1,7 +1,7 @@
 # Good Practices for Working Groups
 
 This document outlines good practices for [OpenTitan Working Groups](./working_group.md).
-It is written primarily as a guide for Working Group Chairs, but is also valuable to members of the Working Group.
+It is written primarily as a guide for Working Group Chairs, but is also valuable to members of a Working Group.
 
 In this document, "OpenTitan Working Group" is abbreviated to "OTWG".
 
@@ -11,7 +11,7 @@ In this document, "OpenTitan Working Group" is abbreviated to "OTWG".
 
 - Find a slot for the OTWG meeting by coordinating with the [Technical Committee](./technical_committee.md). The default interval for OTWG meetings is once every two weeks.
 
-- Add a recurring event to the [OpenTitan Team calendar](https://calendar.google.com/calendar/embed?src=c_gfaeihutdj5bu6bvf5n9j3datc%40group.calendar.google.com) and invite *workgroup*\-contributors@opentitan.org.
+- Add a recurring event to the [OpenTitan Team calendar](https://calendar.google.com/calendar/embed?src=c_gfaeihutdj5bu6bvf5n9j3datc%40group.calendar.google.com) and invite *workgroup\-contributors@opentitan.org*.
 Link to the meeting notes in the event description.
   - If you don’t have that calendar on your opentitan.org account yet, go to [https://calendar.google.com/calendar](https://calendar.google.com/calendar) (make sure you’re using your opentitan.org account by clicking on the button in the top right corner), then go to *Settings* (cogwheel symbol at the top on the right side) → *Add calendar* → *Subscribe to calendar* and enter *OpenTitan Team*.
   - Everyone in the [chairs@opentitan.org](mailto:chairs@opentitan.org) group has permission to modify the calendar. If you don’t have that permission, email [onboarding@opentitan.org](mailto:onboarding@opentitan.org).
@@ -28,7 +28,7 @@ The document should have *Internal* as File Classification label.
 
 - One meeting participant should be designated for taking notes by OTWG chairs at the beginning of the meeting.
 
-- Meeting notes should be sufficiently detailed so that persons who could not attend the meeting can afterwards follow the gist of discussions and presentations.
+- Meeting notes should be sufficiently detailed that people who could not attend the meeting can afterwards follow the gist of discussions and presentations.
 
 ## Composing the meeting agenda
 
@@ -49,11 +49,11 @@ If topics are sensitive or confidential, they should be discussed by a restricte
 
 ## Sending the meeting agenda
 
-- Send the agenda for a regular meeting at least 24 hours in advance to the *workgroup*\-contributors@opentitan.org mailing list.
+- Send the agenda for a regular meeting at least 24 hours in advance to the *workgroup\-contributors@opentitan.org* mailing list.
   - If the agenda is empty 72 hours before the meeting, you can send an email to the mailing list asking for agenda items.
 If the agenda remains empty, cancel the meeting at least 24 hours in advance with an email to the mailing list and remove that week’s occurrence (and *not* the entire recurring event) from the [OpenTitan Team calendar](https://calendar.google.com/calendar/embed?src=c_gfaeihutdj5bu6bvf5n9j3datc%40group.calendar.google.com).
 
-- As the sender (“From:” field), use “OpenTitan *Workgroup* \<*workgroup*\-contributors@opentitan.org\>” and don’t sign the email with your name.
+- As the sender (“From:” field), use “OpenTitan *Workgroup \<workgroup\-contributors@opentitan.org\>*” and don’t sign the email with your name.
   - To have that option in the *From* field, you first have to [add the group as an email address in Gmail](https://support.google.com/groups/answer/10309372?hl=en).
 We recommend settings similar to the following (replace integrated with your *workgroup* both in name and address):
 

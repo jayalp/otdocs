@@ -32,53 +32,29 @@ Each has its advantages and disadvantages, and care should be taken to use the a
 
 Emails are convenient but they cannot easily be tracked, archived and shared, especially over a period of time.
 OpenTitan has a number of mailing lists and emails to these are encouraged to raise awareness of discussions and to call for participation.
-However, detailed sharing of information should be through one of the other options.
+However, detailed sharing of information should use one of the other options.
 
 ### Using Google Docs
 
 Google Docs are valuable for initial, broader discussions, for comparing different options and for soliciting comments from a wider audience on a proposal over a longer period of time.
-They are best used within the context of a committee or Working Group, and should be stored on the associated shared drive, rather than on a user's personal workspace.
+However, Google Docs on a personal workspace can easily be lost or have limited circulation.
+Google Docs are best used within the context of a committee or Working Group.
+They should be stored on the associated shared drive, rather than in a user's personal workspace.
 
 ### Using GitHub Issues
 
-GitHub issues give a more formal record for smaller more suitable for cross-referencing in pull requests, and for presenting smaller proposals.
-They are typically not
+GitHub issues give a formal record for smaller items, generally associated with a specific action.
 
+They are suitable for cross-referencing in pull requests, and for presenting smaller proposals.
+
+They are used in the [RFC process](../../project_governance/rfc_process.md) to track and summarise [individual RFCs](https://github.com/lowRISC/opentitan/issues?q=is%3Aissue%20label%3ARFC%3AApproved%20updated%3A).
+
+They are typically not a good location for extensive specifications or for information which has a longer lifetime.
 
 ### Using markdown documents
 
-
-
-## When to file an issue vs. sending an email vs. creating a document?
-
-Emails to mailing lists are suitable to raise awareness of discussions and to call for participation.
-Emails between members of a smaller group are also useful for preliminary evaluations before starting a public issue or document.
-However, alternative methods can be more easily tracked, cross-referenced, archived and shared, and are more visible to people joining later.
-
-GitHub issues give a more formal record for smaller more suitable for cross-referencing in pull requests, and for presenting the final proposal.
-
-
-
-Google Docs are valuable for initial, broader discussions, for comparing different options and for soliciting comments from a wider audience on a proposal over a longer period of time.
-These should be stored on the shared drive for a Committee or Working Group
-
-
-should be stored in the shared
-
-When it comes to technical discussions, either shared documents on Google Docs or GitHub issues may be used.
-The former are more suitable for initial, broader discussions, for comparing different options and for soliciting comments from a wider audience on a proposal over a longer period of time, whereas the latter are more suitable for cross-referencing in pull requests, and for presenting the final proposal.
-The outcome of such discussions should always be summarized in a GitHub issue for later reference.
-
-## Where do we discuss implementation details/proposals before creating PRs?
-
-A shared Google Doc is suitable for initial, broader discussions, for comparing different design options and for a wider audience and agile commenting, but not for revisioning, referencing and storage in the repository.
-Therefore, such a shared document should always be linked from a GitHub issue and the outcome of this discussion should be summarized in that issue.
-For short proposals, the entire discussion can be had in a GitHub issue, without a linked document.
-
-## How to/why use Google Docs?
-
-Collaborative documents are more useful than GitHub issues for initial, broader discussions, for comparing different design options and for a wider audience commenting on a proposal over a longer period of time, or when interactive editing is required.
-We often make use of a Google Doc to start the discussion of an idea or proposal, before later converting it to Markdown and moving to GitHub (e.g. as a PR adding new documentation).
+Markdown documents are the preferred tool for formal documentation which is likely to need to be referred to at a later point.
+These are used for this OpenTitan documentation guide and for documenting processes or specifications.
 
 ## When to assign issues or request specific reviewers?
 
@@ -135,9 +111,10 @@ The lightweight process is:
    If so, follow the [[Security Issues Process](../README.md#security-issues).
 3. [Create a GitHub issue](#working-with-issues) to raise awareness, start the discussion, and build consensus that the issue needs to be addressed.
    For more information, refer to [Communication](#communication).
-4. Start discussing possible solutions in a smaller group, possibly outside of GitHub, but in a shared document (we typically use Google Docs for convenience) that is linked to the original GitHub issue.
+4. Start discussing possible solutions in a smaller group.  Typically this would be an OpenTitan Working Group.
    Find consensus inside the interest group and come up with a proposal.
    For short proposals, the entire discussion can be had in a GitHub issue, without a linked document.
+   For longer proposals, use a Google Doc in the Working Group shared workspace and link from the GitHub issue.
    For more information, refer to [Communication](#communication).
 5. Summarize the outcome of the discussion or the proposed solution in the original GitHub issue.
    For bug fixes, proceed to Step 8.

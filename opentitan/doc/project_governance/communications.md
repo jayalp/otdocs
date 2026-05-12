@@ -15,22 +15,11 @@ All discussions in the OpenTitan GitHub repositories are subject to the OpenTita
 ## Committers, Authorized Contributors, and Semi-Open Collaboration
 
 The OpenTitan Project will maintain documents and discussion lists for the purposes of facilitating collaboration.
-These resources will include an OpenTitan Team Google Drive folder that will not be publicly accessible, but which will be made semi-open through the assignment of “@opentitan.org” G Suite accounts to external contributors.
-This assignment of G Suite accounts and resource access will be made for approved [Committers](./committers.md).
-Committers are individuals with repository write access.
-While everyone can and is encouraged to contribute by reviewing code, committers are responsible for final approval and merge.
-Additionally, G Suite accounts may be assigned to any contributors to the OpenTitan Project who are proposed by the OpenTitan Technical Committee and approved by the OpenTitan Governing Board (“Authorized Contributors”).
-Committers and Authorized Contributors’ access to @opentitan.org G Suite accounts and related access must be in compliance with:
-- This Communications Policy
-- The OpenTitan Acceptable Trademark Use Policy
-- and the OpenTitan [Code of Conduct](./code_of_conduct.md).
+These resources will include an OpenTitan Team Google Drive folder that will not be publicly accessible, but which will be made semi-open through the use of private G suite accounts.
 
-For the avoidance of doubt, Committers and Authorized Contributors’ may use their @opentitan.org G Suite accounts to set up profiles and contribute comments in public discussion on sites such as Reddit, Hacker News, etc., if and only if those @opentitan.org G Suite linked accounts are only used to confirm publicly available information, such as pointing to official OpenTitan Project documentation or official OpenTitan blog posts.
+**Prior to sharing any information or comment beyond what is already publicly available, Committers and Authorized Contributors must contact press@lowrisc.org for permission**.
 
-**Prior to using @opentitan.org G Suite accounts to publicly share any information or comment beyond what is already publicly available, Committers and Authorized Contributors must contact press@lowrisc.org for permission**.
-
-Similarly, if a Committer or Authorized Contributor accidentally used an @opentitan.org G Suite account for unapproved communications, notify press@lowrisc.org as soon as possible.
-Any unauthorized attempt to use an @opentitan.org email address or G Suite account to impersonate a lowRISC employee, member of the Governing Board or official spokesperson (i.e., making statements as if one is answering authoritatively, officially, or with permission) on behalf of the OpenTitan Project will be considered a violation of this Communications Policy and the violating Authorized Contributor will lose authorization and G Suite access.
+Any unauthorized attempt to impersonate a lowRISC employee, member of the Governing Board or official spokesperson (i.e., making statements as if one is answering authoritatively, officially, or with permission) on behalf of the OpenTitan Project will be considered a violation of this Communications Policy and the violating Authorized Contributor will lose authorization and G Suite access.
 Similarly, any unauthorized or bad faith attempts to misuse this access to represent OpenTitan or imply official affiliation or authorization where none exists will be considered a violation of this Communications Policy and potentially the Acceptable Trademark Use Policy as well.
 If a Committer or Authorized Contributor violates this Communications Policy, the violating individual will lose authorization and G Suite access at the discretion of the OpenTitan Governing Board.
 

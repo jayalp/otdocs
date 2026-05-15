@@ -15,13 +15,17 @@
 ### Partner Individuals
 
 Partner Individuals are those working for an OpenTitan Project Partner and designated by that Project Partner as one of its contributors to the OpenTitan project.
-No separate legal agreement beyond the partner agreement is required.
 
-Partners may identify individuals as Partner Individuals by requesting an [OpenTitan account](./useraccounts.md#requesting-a-partner-individual-account).
-A number of OpenTitan accounts are available according to the Partnership agreement.
-By identifying an individual as a Partner Individual, the Partner authorises them to agree to the terms in the OpenTitan CLA when making contributions.
+By identifying an individual as a Partner Individual, the Partner authorises them to agree to the terms in the OpenTitan Contributor License Agreement (CLA) when making contributions.
+No separate Corporate Contributor License Agreement beyond the partner agreement is required.
 
 If a Partner Individual leaves the employment of a Project Partner, the Project Partner must notify lowRISC C.I.C. promptly so that they can be removed from the Project.
+
+Partners may identify individuals as Partner Individuals, up to the limit specified in the Partnership agreement, as follows:
+- Partner Individuals should [create a Google account] (https://accounts.google.com/signin) linked to their existing corporate email address.
+- Then contact onboarding@opentitan.org specifying:
+  - The partner organisation to which the individual belongs
+  - The email address to which the Google account is linked
 
 ### Individual Collaborators
 

@@ -37,14 +37,14 @@ However, detailed sharing of information should use one of the other options.
 ### Using Google Docs
 
 Google Docs are valuable for initial, broader discussions, for comparing different options and for soliciting comments from a wider audience on a proposal over a longer period of time.
-However, Google Docs on a personal workspace can easily be lost or have limited circulation.
+
+However, Google Docs in a personal workspace can easily be lost or have limited visibility.
 Google Docs are best used within the context of a committee or Working Group.
-They should be stored on the associated shared drive, rather than in a user's personal workspace.
+They should then be stored on the associated shared drive, rather than in a user's personal workspace.
 
 ### Using GitHub Issues
 
 GitHub issues give a formal record for smaller items, generally associated with a specific action.
-
 They are suitable for cross-referencing in pull requests, and for presenting smaller proposals.
 
 They are used in the [RFC process](../../project_governance/rfc_process.md) to track and summarise [individual RFCs](https://github.com/lowRISC/opentitan/issues?q=is%3Aissue%20label%3ARFC%3AApproved%20updated%3A).

@@ -9,13 +9,13 @@ In this document, "OpenTitan Working Group" is abbreviated to "OTWG".
 
 ## Scheduling meetings
 
-- Find a slot for the OTWG meeting by coordinating with the [Technical Committee](./technical_committee.md). 
+- Find a slot for the OTWG meeting by coordinating with the [Technical Committee](./technical_committee.md).
 The default interval for OTWG meetings is once every two weeks.
 
 - Add a recurring event to the [OpenTitan Team calendar](https://calendar.google.com/calendar/embed?src=c_gfaeihutdj5bu6bvf5n9j3datc%40group.calendar.google.com) and invite *workgroup\-contributors@opentitan.org*.
 Link to the meeting notes in the event description.
   - If you don't have that calendar yet, go to [https://calendar.google.com/calendar](https://calendar.google.com/calendar), then go to *Settings* (cogwheel symbol at the top on the right side) → *Add calendar* → *Subscribe to calendar* and enter *OpenTitan Team*.
-  - Everyone in the [chairs@opentitan.org](mailto:chairs@opentitan.org) group has permission to modify the calendar. 
+  - Everyone in the [chairs@opentitan.org](mailto:chairs@opentitan.org) group has permission to modify the calendar.
 If you don't have that permission, email [onboarding@opentitan.org](mailto:onboarding@opentitan.org).
 
 ## Maintaining meeting notes
@@ -45,7 +45,7 @@ If topics are sensitive or confidential, they should be discussed by a restricte
 - Have a status update agenda item in which you or designated OTWG members communicate the current status and progress, major upcoming dates, and potential blockers or show stoppers – in line with [Milestone Tracking](https://docs.google.com/document/d/1HzAbDKCKgGM4IQWphULHoi8nx6c-ycfjM2eDdui-LtY/edit#bookmark=id.54sv2thyhhf6).
 
 - If your OTWG has a *Hotlist* label on GitHub, add issues/PRs that have not been discussed before to the agenda and reach out to the contributor who added the *Hotlist* label asking them to present the item for discussion (or to get another contributor to present it).
-  - If the hotlisted issues exceed the time budget, get in touch with the authors/labelers to determine their priority and exercise your judgment on the priority of an issue for the project. 
+  - If the hotlisted issues exceed the time budget, get in touch with the authors/labelers to determine their priority and exercise your judgment on the priority of an issue for the project.
 In that case, keeping a queue of issues at the top of the meeting notes helps make this process transparent.
 
 - Assign a time budget to each agenda item.
@@ -80,19 +80,19 @@ This serves two main purposes:
 
 - Also aim for productive discussions that result in a decision that allows the project to progress.
 
-- At the end of each discussion, repeat the conclusion and ask if there are any objections. 
+- At the end of each discussion, repeat the conclusion and ask if there are any objections.
 This conclusion and any objections (or the absence of objections) have to be captured in the notes.
 
 - If a discussion is blocked and progress in the workgroup is not possible or not at the pace required to meet deadlines, raise it to the [Technical Committee](./technical_committee.md).
 
 ## Updating issues
 
-- Update any issues that have been discussed during a OTWG meeting with the outcome of the meeting. 
+- Update any issues that have been discussed during a OTWG meeting with the outcome of the meeting.
 Do not post non-public information in the issue, though.
 
 # Mailing list
 
-- Every OTWG has a mailing list, which is managed by its chairs. 
+- Every OTWG has a mailing list, which is managed by its chairs.
 Send an email to [onboarding@opentitan.org](mailto:onboarding@opentitan.org) asking to become a *Manager* for your OTWG's mailing list.
 
 - Announcements and meeting agendas should be distributed via the mailing list.

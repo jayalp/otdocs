@@ -14,7 +14,7 @@ The default interval for OTWG meetings is once every two weeks.
 
 - Add a recurring event to the [OpenTitan Team calendar](https://calendar.google.com/calendar/embed?src=c_gfaeihutdj5bu6bvf5n9j3datc%40group.calendar.google.com) and invite *workgroup\-contributors@opentitan.org*.
 Link to the meeting notes in the event description.
-  - If you don't have that calendar on your opentitan.org account yet, go to [https://calendar.google.com/calendar](https://calendar.google.com/calendar) (make sure you're using your opentitan.org account by clicking on the button in the top right corner), then go to *Settings* (cogwheel symbol at the top on the right side) → *Add calendar* → *Subscribe to calendar* and enter *OpenTitan Team*.
+  - If you don't have that calendar yet, go to [https://calendar.google.com/calendar](https://calendar.google.com/calendar), then go to *Settings* (cogwheel symbol at the top on the right side) → *Add calendar* → *Subscribe to calendar* and enter *OpenTitan Team*.
   - Everyone in the [chairs@opentitan.org](mailto:chairs@opentitan.org) group has permission to modify the calendar. 
 If you don't have that permission, email [onboarding@opentitan.org](mailto:onboarding@opentitan.org).
 
